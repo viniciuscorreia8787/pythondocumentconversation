@@ -1,0 +1,3513 @@
+*** Page 1 ***
+This content is Internal.
+Deviation Analysis Report – V10
+Melt Shop - Imperial
+05/09/2024
+
+*** Page 2 ***
+This content is Internal.
+Introduction
+
+*** Page 3 ***
+Introduction
+•
+Objectives
+•
+Show a value tree breakdown by looking at cost and production dimensions 
+•
+Present the consolidated results of the analyses by group
+•
+Demonstrate the breakdown of each plant x group
+•
+Show the main findings and conclusions by group
+•
+Auxiliary tools
+•
+Value tree for cost and production dimension (link)
+•
+Generating the bubble chart (Running on Databricks)
+•
+Plant detailing template (link)
+•
+Table of indicators by mill x area (link)
+•
+Context Analysis (link)
+•
+Monetization spreadsheet (link)
+
+*** Page 4 ***
+This content is Internal.
+Context and 
+Objectives
+
+*** Page 5 ***
+This content is Internal.
+Standardized data in a single 
+location (Industrial Data Layer)
+Leadership supported by 
+performance insights
+Consistent performance 
+metrics
+Review and documentation of Metrics and 
+Indicators
+Concept of Times
+Indicator Trees
+Indicator Sheets
+KPI Dynamic
+(Interaction between 
+indicators and their 
+precursors) 
+Performance zones 
+(Indicator in context)
+Ex.: Steel Cost 
+The availability of data in the Industrial Data 
+Layer enables the reuse of Gerdau data, 
+enabling several initiatives
+Performance Pages
+(Custom dashboards for GEX, 
+Area Managers, and Directors)
+Enhanced Performance 
+Visibility
+(Dynamic version of the Industrial 
+Book)
+Cross site View
+(Insight studio focused on plant 
+comparability analysis and 
+search for gaps and 
+opportunities)
+Change Management and Knowledge Management
+Leverage business results, directing 
+the best decision-making, through 
+reliable and effective analysis
+CONTEXT
+OBJECTIVE
+HOW DO WE WORK TO DRIVE INDUSTRIAL PERFORMANCE?
+SCOPE
+We are in a movement of search for high 
+industrial performance. Therefore, it is 
+necessary to guide the best practices of 
+management and monitoring of indicators, 
+promote benchmarking and knowledge 
+management
+GAB
+GSB
+GLN
+GSN
+LAT
+Supply 
+Chain
+Environment People
+Safety
+TI
+I4.0
+Exc. 
+Operational
+Value Chain
+Other Areas
+Reduction
+Melt 
+Shop
+Rolling Mill
+Metallics
+Committees
+Horizontal
+
+*** Page 6 ***
+This content is Internal.
+Definition of site 
+groups
+
+*** Page 7 ***
+DEFINITION OF SITE GROUPS – MELT SHOP
+GROUP 3
+Selected Sites
+Ludueña
+Cosigua
+Araçariguama
+Cartersville
+Whitby
+Petersburg
+Midlothian
+GROUP 4
+Selected Sites
+Barão de Cocais
+GROUP 5
+Selected Sites
+Charlotte
+Sahagun
+GROUP 6
+Selected Sites
+Charqueadas
+Pindamonhangaba
+Fort Smith
+Monroe
+GROUP 1
+Selected Sites
+Laisa
+Tultitlan
+Wilton
+Jackson Tennessee
+Asset and/or business characteristics:
+Furnace: EAF
+Products: Long
+Size furnace: 23-127
+Trafo size/tapping weigh: 0,43-1,17
+*They do not have Ladle Furnace
+Asset and/or business characteristics:
+Furnace: EAF
+Products: Long
+Size furnace: 75-138,8
+Trafo size/tapping weigh: 0,84-1,13
+GROUP 2
+Selected Sites
+Cearense
+Riograndense
+Açonorte
+Chimbote
+Manitoba
+Asset and/or business characteristics:
+Furnace: EAF
+Products: Long
+Size furnace: 21-54,4
+Trafo size/tapping weigh: 0,9-1,4
+Asset and/or business characteristics:
+Furnace: LD
+Products: Long
+Size furnace: 28
+Trafo size/tapping weigh: N/A
+Asset and/or business characteristics:
+Furnace: Consteel
+Products: Long
+Size furnace: 38,1-120
+Trafo size/tapping weigh: 0,83-1,5
+Asset and/or business characteristics:
+Furnace: EAF
+Products: SBQ
+Size furnace: 47,7-110,7
+Trafo size/tapping weigh: 0,88-1,29
+GROUP 7
+Selected Sites
+Ouro Branco
+Asset and/or business characteristics:
+Furnace: LD
+Products: Flat and Long
+Size furnace: 220
+Trafo size/tapping weigh: N/A
+GROUP 8
+Selected Sites
+Divinópolis
+Asset and/or business characteristics:
+Furnace: EOF
+Products: Long
+Size furnace: 45
+Trafo size/tapping weigh: N/A
+
+*** Page 8 ***
+This content is Internal.
+Deviation Analyses
+
+*** Page 9 ***
+This content is Internal.
+Melt shop
+
+*** Page 10 ***
+EBIT 
+Margin
+GAB
+GLN
+GLM
+LATAM
+GSN
+Araçariguama
+Midlothian
+Sahagun
+Monroe
+Pinda
+34%
+8%
+5%
+10%
+6%
+27%
+31%
+64%
+54%
+27,958 Kton
+16,272M USD
+74%
+26%
+Site with the largest share 
+GSB
+40%
+Ouro Branco 
+(OB)
+100%
+53%
+GLA –
+Ludueña
+GLY -
+Laisa
+GLP -
+Chimbote
+GAB UOB
+GAB Mini Mills
+38%
+62%
+36%
+53%
+11%
+GAB
+GLN
+GLM
+LATAM
+GSN
+Araçariguama
+Midlothian
+Sahagun
+Monroe
+Pinda
+32%
+9%
+4%
+8%
+6%
+27%
+31%
+65%
+54%
+GSB
+40%
+Ouro Branco 
+(OB)
+100%
+53%
+GLA –
+Ludueña
+GLY -
+Laisa
+GLP -
+Chimbote
+GAB UOB
+GAB Mini Mills
+35%
+65%
+40%
+53%
+7%
+GAB
+GLN
+GLM
+LATAM
+GSN
+Cosigua
+Midlothian
+Sahagun
+Monroe
+Pinda
+39%
+8%
+6%
+14%
+8%
+26%
+31%
+67%
+54%
+GSB
+25%
+Ouro Branco 
+(OB)
+100%
+62%
+GLA –
+Ludueña
+GLY -
+Laisa
+GLP -
+Chimbote
+GAB UOB
+GAB Mini Mills
+51%
+49%
+45%
+40%
+15%
+TOTAL PRODUCTION (Melt Shop) in the last 24 months (ago/22 to jul/24) 
+27,958 Kton (by Business unit)
+Revenue
+Production
+Price
+Raw Material 
+Cost
+Conversion 
+Cost
+Cost
+The data indicates that:
+•
+GAB has the largest share in 
+PRODUCTION (40%) and RAW 
+MATERIAL COST (40%) but GLN
+has the largest share in 
+CONVERSION COST (39%)
+
+*** Page 11 ***
+EBIT 
+Margin
+Revenue
+Production
+GROUP 1
+LA, TUL, WIL, JTN
+GROUP 2
+SC, URS, REC, CHI, MAN
+GROUP 3
+LUD, CSG, GSP, CVL, WHI, PET, MID 
+GROUP 4
+BCOC
+GROUP 5
+CHR, SAH
+GROUP 6
+CHA, PIN, FSM, MON
+Costs
+Cost
+Raw Material 
+Cost
+Jackson TN 
+(JTN)
+Chimbote (CHI)
+Midlothian (MID)
+Barão de Cocais 
+(BCOC)
+Sahagun (SAH)
+Monroe (MON)
+9%
+8%
+34%
+1%
+7%
+12%
+46%
+36%
+30%
+100%
+73%
+16,272M USD
+74%
+Conversion 
+Cost
+26%
+Site with the largest share 
+in the group
+Price
+GROUP 7
+OB
+Ouro Branco 
+(OB)
+25%
+100%
+31%
+GROUP 8
+DIV
+3%
+Divinópolis (DIV)
+100%
+GROUP 1
+LA, TUL, WIL, JTN
+GROUP 2
+SC, URS, REC, CHI, MAN
+GROUP 3
+LUD, CSG, GSP, CVL, WHI, PET, MID 
+GROUP 4
+BCOC
+GROUP 5
+CHR, SAH
+GROUP 6
+CHA, PIN, FSM, MON
+Jackson TN 
+(JTN)
+Chimbote (CHI)
+Midlothian (MID)
+Barão de Cocais 
+(BCOC)
+Sahagun (SAH)
+Monroe (MON)
+9%
+7%
+32%
+1%
+8%
+14%
+45%
+34%
+32%
+100%
+78%
+GROUP 7
+OB
+Ouro Branco 
+(OB)
+26%
+100%
+32%
+GROUP 8
+DIV
+3%
+Divinópolis (DIV)
+100%
+GROUP 1
+LA, TUL, WIL, JTN
+GROUP 2
+SC, URS, REC, CHI, MAN
+GROUP 3
+LUD, CSG, GSP, CVL, WHI, PET, MID 
+GROUP 4
+BCOC
+GROUP 5
+CHR, SAH
+GROUP 6
+CHA, PIN, FSM, MON
+Jackson TN 
+(JTN)
+Manitoba (MAN)
+Midlothian (MID)
+Barão de Cocais 
+(BCOC)
+Sahagun (SAH)
+Monroe (MON)
+9%
+9%
+36%
+1%
+8%
+22%
+42%
+34%
+33%
+100%
+68%
+GROUP 7
+OB
+Ouro Branco 
+(OB)
+13%
+100%
+35%
+GROUP 8
+DIV
+2%
+Divinópolis (DIV)
+100%
+TOTAL PRODUCTION (Melt Shop) in the last 24 months (ago/22 to jul/24) 
+27,958 Kt (by Business Group)
+The data indicates that:
+•
+Group 3 concentrates:
+•
+34% of the total 
+PRODUCTION of steel mills 
+•
+32% of the RAW MATERIAL 
+COST
+•
+36% of CONVERSION COST
+•
+The site with the LARGEST
+share of group 3 is 
+MIDLOTHIAN (30%), followed 
+by CARTERSVILLE (16%) and 
+PETERSBURG (12%).
+•
+Analyzing the data without the 
+integrated plants (Ouro Branco, 
+Barão de Cocais and Divinópolis), 
+we have group 3 with a share of 
+approximately 36% in cost and 
+production.
+Key Insight
+27,958 Kton
+
+*** Page 12 ***
+291 MM USD¹
+201 MM USD¹
+Melt Shop
+•
+Electrode Consumption – 24.1 MM USD
+•
+Energy Consumption – 25 MM USD
+•
+Lime Consumption– 22.4 MM USD
+•
+Metallic Yield – 129.8 MM USD
+Rolling Mill
+•
+Metallic Yield – 79 MM USD
+89 MM USD¹
+Total result comparing the PLANT WITH ITS BEST 
+HISTORICAL VALUE² in 3 CONSECUTIVE MONTHS
+54
+33
+32
+27
+14
+13
+11
+10
+9
+9
+8
+8
+7
+7
+6
+6
+6
+6
+5
+5
+4
+4
+2
+2
+2
+1
+1
+0
+291
+0
+50
+100
+150
+200
+250
+300
+350
+MIDLOTHIAN
+SAHAGÚN
+OURO BRANCO
+PETERSBURG
+CHARQUEADAS
+TULTITLÁN
+FORT SMITH
+CARTERSVILLE
+DIVINÓPOLIS
+WILTON
+CHIMBOTE
+MONROE
+WHITBY
+JACKSON TN
+MANITOBA
+AÇONORTE
+LUDUEÑA
+CHARLOTTE
+PINDA
+COSIGUA
+RIOGRANDENSE
+CAMBRIDGE
+BARÃO DE COCAIS
+ARAÇARIGUAMA
+LA PRESA
+CEARENSE
+MONTEVIDEO
+CAUCAIA
+MM USD
+130
+61
+47
+19
+19
+8
+7 291
+0
+50
+100
+150
+200
+250
+300
+350
+GLN
+GAB Total
+GLM
+GSN
+GSB
+GLP
+GLAY
+MM USD
+Potential gain by Business Unit
+Potential gain by site
+Waterfall - Potential gain by site
+(1) Data in MM USD / Year
+(2) Data from Jan/2018 to Jul/2024
+Potential gain of Melt Shop and Rolling Mill 
+Historical comparison (Jan/2018 to Jul/2024)
+Melt Shop
+Rolling Mill
+Total
+GAB Total
+$         50.46 
+$         10.61 
+$         61.08 
+GAB-MiniMills
+$         21.09
+$            8.03 
+$         29.12
+GAB-OB
+$         29.38
+$            2.58
+$         31.96
+GLN
+$         74.42 
+$         55.61 
+$      130.03 
+GLM
+$         30.69 
+$         16.04 
+$         46.73 
+GSB
+$         19.31 
+$                  -
+$         19.31 
+GSN
+$         14.13 
+$            4.60 
+$         18.73 
+GLAY
+$            7.02 
+$                  -
+$            7.02 
+GLA
+$            6.43
+$                  -
+$            6.43
+GLY
+$            0.60
+$                  -
+$            0.60
+GLP
+$            5.77 
+$            2.37 
+$            8.14 
+Total
+$      201.80 
+$         89.24 
+$      291.04 
+Melt Shop
+MM USD
+Rolling Mill
+MM USD
+Total
+MM USD
+Melt Shop
+MM USD
+Rolling Mill
+MM USD
+Total
+MM USD
+MIDLOTHIAN
+$         38.10 $         15.51 $         53.61 
+AÇONORTE
+$            4.14 $            2.33 $            6.47 
+OURO BRANCO
+$         29.38 $            2.58 $         31.96 
+CHARQUEADAS
+$         14.33 $                  - $         14.33 
+SAHAGÚN
+$         19.48 $         13.13 $         32.60 
+PINDA
+$            4.98 $                  - $            4.98 
+FORT SMITH
+$            9.88 $            1.15 $         11.03 
+RIOGRANDENSE
+$            2.68 $            1.42 $            4.10 
+PETERSBURG
+$            9.52 $         17.69 $         27.22 
+LUDUEÑA
+$            6.43 $                  - $            6.43 
+TULTITLÁN
+$         11.21 $            1.36 $         12.57 
+CAMBRIDGE
+$                  - $            4.02 $            4.02 
+CARTERSVILLE
+$            6.99 $            2.79 $            9.79 
+COSIGUA
+$            2.23 $            2.29 $            4.53 
+MONROE
+$            4.25 $            3.45 $            7.70 
+CHARLOTTE
+$            4.83 $            0.89 $            5.73 
+DIVINÓPOLIS
+$            8.31 $            1.13 $            9.44 
+BARÃO DE COCAIS
+$            2.34 $            0.01 $            2.35 
+JACKSON TN
+$            3.85 $            2.80 $            6.65 
+CEARENSE
+$            0.43 $            0.18 $            0.61 
+WILTON
+$            5.39 $            3.69 $            9.08 
+ARAÇARIGUAMA
+$            0.95 $            0.67 $            1.62 
+CHIMBOTE
+$            5.77 $            2.37 $            8.14 
+MONTEVIDEO
+$            0.60 $                  - $            0.60 
+WHITBY
+$            3.25 $            4.22 $            7.46 
+LA PRESA
+$                  - $            1.56 $            1.56 
+MANITOBA
+$            2.49 $            4.00 $            6.48 
+CAUCAIA
+$                  -
+$                  -
+$                  -
+
+*** Page 13 ***
+DEMONSTRATION - Performance Evaluation among Plants (Melt Shop)
+Without Alloy Consumption - Period jan/18 to Jul/2024
+Best
+Low cost vs. Low 
+performance
+Low cost vs. High 
+performance
+High cost vs. High 
+performance
+High cost vs. Low 
+performance
+First Quartile (25%)
+Third Quartile (75%)
+Alternate View
+According to the graph We can observe
+Champions:
+•
+The plants in Riograndense, Araçariguama, Açonorte and Barão de 
+Cocais have cost and performance results above the third quartile. 
+•
+The plants in Cosigua, Charlotte and Sahagun and Cearense are 
+equal/above the third quartile performance, but below the third 
+quartile on the cost axis.
+•
+The Divinópolis, Ouro Branco and Laisa plants are equal/above the 
+third quartile Cost, but are below the third quartile in the 
+performance axis
+Opportunities:
+•
+The Pinda, Midlothian 2 and Wilton plants have cost and 
+performance results below the first quartile. 
+•
+The Ludueña and Cearense plants are equal/above the median cost, 
+but below the first quartile in the performance axis.
+•
+The plants in Petersburg, Sahagun, Charqueadas and Tultitlan are 
+equal/above the median cost performance, but are below the first 
+quartile on the cost axis
+HIGHLIGHT
+Exceptions: Matches the 
+chart's exception criteria
+Bubble size: 
+Indicates the 
+average 
+production of the 
+plant under 
+analysis
+Quadrante Label: 
+Indicates the main 
+characteristic of 
+the quadrant
+First Quartile: 
+Indicates the line that 
+corresponds to the 
+first quartile of the 
+data under analysis
+Median: Indicates the 
+line that corresponds 
+to median of the data 
+under analysis
+Prioritization: Indicates the 
+indicator weights for 
+calculating the score
+Analysis period: 
+Indicates the 
+analysis period
+Bubble position: 
+indicates the position 
+of the plant in relation 
+to the cost vs 
+performance score
+Axis Y: 
+Represents the 
+Cost Score, and 
+the higher the 
+score, the lower 
+the Steel Cost
+Axis X: Represents the 
+Performance Score, and 
+the higher the score, 
+the higher the 
+performance
+Key Insight: Indicates the key 
+insight gained from the 
+information obtained from the 
+bubble chart
+Alternate view: Go to 
+an alternate view page 
+of the bubble chart
+
+*** Page 14 ***
+Performance Evaluation among Plants (Melt Shop)
+Without Alloy Consumption - Period jan/18 to Jul/2024
+Best
+Low cost vs. Low 
+performance
+Low cost vs. High 
+performance
+High cost vs. High 
+performance
+High cost vs. Low 
+performance
+First Quartile (25%)
+Third Quartile (75%)
+Alternate View
+According to the graph we can observe
+Champions:
+•
+Riograndense (highlight for Steel cost, Metallic Yield and Power Off)
+•
+Araçariguama (highlight for Steel cost, Metallic Yield, Energy 
+consumption and power Off)
+•
+Açonorte (highlight for Steel cost, Metallic Yield and Power Off) 
+Opportunities:
+•
+Pinda(Presents opportunity for Steel Cost, Metallic Yield and 
+Electrode Consumption)
+•
+Wilton (Presents opportunity for Steel Cost, Power Off and Electrode 
+Consumption)
+HIGHLIGHT
+INDICATOR WEIGHTS FOR CALCULATING THE SCORE
+Metallic Yield
+3
+Energy Consumption
+3
+PowerOFF
+3
+Electrode Consumption
+1
+Lime Consumption
+1
+Score Cost x Score Performance
+Bubble size: Average monthly production
+
+*** Page 15 ***
+Performance Evaluation among Plants (Melt Shop)
+Without Alloy Consumption - Period jan/18 to Jul/2024
+First Quartile (25%)
+Third Quartile (75%)
+Alternate View
+According to the graph We can observe
+Champions:
+•
+Jackson TN (highlight for  Metallic Yield to group and Lime 
+Consumption to itself)  
+•
+Cosigua (highlight for Electrode Consumption to group and Metallic 
+Yield to itself) 
+•
+Araçariguama (highlight for  Energy Consumption to group and Lime 
+Consumption to itself) 
+Opportunities:
+•
+Petersburg (Presents opportunity for Energy Consumption to group 
+and to itself)
+•
+Midlothian - A (Presents opportunity for Power Off group and 
+Metallic Yield to itself)  
+•
+Wilton (Presents opportunity for Energy Consumption to group and 
+to itself)
+HIGHLIGHT
+INDICATOR WEIGHTS FOR CALCULATING THE SCORE
+Metallic Yield
+3
+Energy Consumption
+3
+PowerOFF
+3
+Electrode Consumption
+1
+Lime Consumption
+1
+Performance compared to itself vs Performance compared to 
+the group
+Bubble size: Average monthly production
+
+*** Page 16 ***
+Evaluation of Historical Performance among Plants (Melt Shop) – (jan/18 to Jul/2024)
+Analytics View – Classification by Score - Cost
+
+*** Page 17 ***
+Evaluation of Historical Performance among Plants (Melt Shop) – (jan/18 to Jul/2024)
+Analytics View – Classification by Score - Performance
+
+*** Page 18 ***
+Evaluation of Historical Performance among Plants (Melt Shop) – (jan/18 to Jul/2024)
+Analytics View – Classification by Score – Performance - Group
+
+*** Page 19 ***
+Evaluation of Historical Performance among Plants (Melt Shop) – (jan/18 to Jul/2024)
+Analytics View – Classification by Score – Performance Itself
+
+*** Page 20 ***
+This content is Internal.
+Detailing of the plants
+
+*** Page 21 ***
+Detailing of the plants
+BEST YEAR: This 
+value corresponds 
+to the best annual 
+value of the plant 
+under analysis
+BEST MONTH: This value 
+corresponds to the best 
+monthly value of the plant 
+under analysis
+BEST YEAR GERDAU: This 
+value corresponds to the 
+best annual value of the 
+indicator under analysis 
+comparing all Gerdau 
+plants
+BEST YEAR GERDAU: This value 
+corresponds to the best annual 
+value of the indicator under 
+analysis comparing all group 
+plants
+Best value in 3 consecutive 
+months: This value corresponds 
+to the best value in 3 consecutive 
+months of the plan under analysis 
+in the Period 2018 to Jul/2024
+Last 3 Months: This value 
+corresponds to the cumulative result 
+of the indicator under analysis in the 
+last 3 months. For this report it 
+corresponds to the period from 
+Mai/24 to Jul/2024.
+Trending: This value corresponds 
+to the trend of the indicator 
+observing the result of the last 24 
+months (Jun/22 to Jul/2024).
+Potential Saving: This value 
+corresponds to the process of 
+monetizing the gap between the 
+"Current value" and the "Best value 
+in 3 consecutive months" 
+according to the rules and 
+assumptions for the calculation.
+Quartile Analysis - The 
+plant with itself: It is a 
+visual demonstration of the 
+"Current Value" within the 
+quartiles of the last 24 
+months (May/24 to 
+Jul/2024). Looking only at 
+the results of the 
+plant/indicator under 
+analysis
+Quartile Analysis - The 
+plant relative to peers : It 
+is a visual demonstration 
+of the "Current Value" 
+within the quartiles of the 
+last 24 months (May/24 to 
+Jul/2024). Looking at the 
+results of the 
+group/indicator under 
+analysis
+Last Month: This value corresponds 
+to the result of the last month
+
+*** Page 22 ***
+This content is Internal.
+GROUP 1
+Selected Sites
+Jackson Tennessee
+Laisa
+Tultitlan
+Wilton
+
+*** Page 23 ***
+Performance Evaluation among Plants (Melt Shop)
+Without Alloy Consumption - Period jan/18 to jul/24
+INDICATOR WEIGHTS FOR CALCULATING THE SCORE
+Metallic Yield
+3
+Energy Consumption
+3
+PowerOFF
+3
+Electrode Consumption
+1
+Lime Consumption
+1
+Best
+Low cost vs. Low 
+performance
+Low cost vs. High 
+performance
+High cost vs. High 
+performance
+High cost vs. Low 
+performance
+•
+To calculate the performance score, the available indicators that do not refer to cost were considered: Lime Consumption, Electrode
+Consumption, Power Off, Power On, Metallic Yield and Total Energy.
+•
+The Alloy Consumption indicator was disregarded for all plants in this analysis.
+•
+Power Off data was disregarded for the plants: 'LUD','LA','TUL','PIN','CHI','OB','FS’
+•
+Metallic Yield data were disregarded for the plants: 'FS', 'MON'
+•
+For plants in the special group ('CHA', 'FSM', 'PIN', 'MON', 'FS') only data from 2021 was considered.
+•
+The analysis also disregards values ​outside the interquartile range (IQR) for all indicators in all plants, as they are considered outliers.
+First Quartile (25%)
+Third Quartile (75%)
+•
+To measure the plant's performance with itself, the distance between the average of the last three
+months and the best and worst value of the plant within the period of analysis is calculated for each
+indicator.
+•
+To measure the performance of the plant compared to the group, the distance between the
+average of the last three months and the best value of the indicator in the group is calculated.
+•
+To calculate the performance score, first the historical average of each indicator per plant is
+calculated, then the score for each indicator applying a normalization of the data where the plant
+with the worst result receives 1 and the one with the best result 5. Then a weighted average of the
+score of each indicator in the table below for each plant, the result is the performance score.
+Score Cost x Score Performance 
+First Quartile (25%)
+Third Quartile (75%)
+Performance compared to itself vs Performance compared to the group
+Bubble size: Average monthly production
+Score Cost x Score Performance
+Bubble size: Average monthly production
+
+*** Page 24 ***
+Deviation Analysis – Overview of Findings and Conclusions
+Period jan/18 to jul/24
+The Jackson TN melt shop has the highest performance score in the group, being the group benchmark for 
+Energy Consumption, Power on and Power Off. Even though, Jackson TN scored lower in Steel Cost 
+compared to Laisa.
+Wilton has the highest gap in relation to the performance score. Apparently, the main opportunities are in 
+Metallic Yield, Alloy Consumption, Conversion Cost, Energy Consumption and Power On/Off, where the 
+distance from the peers in the group are higher.
+Overview (Score Performance x Cost)
+Bring Tultitlan back to its best 
+demonstrated performance levels (low 
+score compared to itself), thus reflecting 
+on Steel Cost score. Main focus should be 
+on Metallic Yield (actuals 87.6% against 
+best value in 3 consecutives months 
+89.8%), being the largest financial gap in 
+the group, and Energy Consumption 
+(actuals 589.5 kWh/ton against best 
+value in 3 consecutives months of 325.7 
+kWh/ton).  For Energy Consumption refer 
+to Jackson TN best practices. For Metallic 
+Yield refer to Laisa best practices.
+Key Recommendation to the 
+group
+Tultitlan
+Presents opportunities in the Metallic Yield 
+result (between Q1 and Q2 and Energy 
+Consumption (above Q3)
+Presents opportunities in Metallic Yield 
+(below Q2 ), Raw Material cos and 
+Electrode Consumption (above Q3)
+Wilton
+Presents opportunities in Metallic Yield 
+(below Q2), Conversion Cost, Lime, Energy, 
+electrode Consumption, Maintenance Cost 
+and Power Off (above Q3)
+Presents opportunities in Metallic Yield 
+(below Q1), Alloy Consumption, Steel and 
+Conversion Cost, Energy Consumption, 
+Maintenance Cost , lime and Electrode 
+consumption (above Q3)
+Laisa
+Presents opportunities in Alloy 
+Consumption and Maintenance Cost 
+(above Q2)
+Presents opportunities in Alloy 
+Consumption , Conversion Cost, Energy 
+and Maintenance Cost (above Q2)
+Jackson TN 
+Presents opportunities Electrode 
+Consumption (above Q3 )
+Presents opportunities in Electrode 
+Consumption (above Q2)
+Compared to itself
+Compared to group
+Site Analysis
+
+*** Page 25 ***
+Dynamics Analysis – Overview of Findings and Conclusions
+
+*** Page 26 ***
+Jackson TN (Short Tons)
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+
+*** Page 27 ***
+Laisa (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 28 ***
+Tultitlan (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 29 ***
+Wilton (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 30 ***
+Deviation Analysis – Comparison between highest and lowest Performance Score
+1.
+Metallic Yield: Both plants have similar best metallic yields, with Wilton at 89.5% and Jackson TN at 90.6%. However, the current value for Wilton is 
+85.6%, while for Jackson TN it's slightly higher at 89.9%. 
+2.
+Steel Cost: The steel cost at Wilton is higher (667.2 USD/ton) compared to Jackson TN (529.1 USD/ton). This indicates that Wilton has operating cost 
+opportunity compared to Jackson TN.
+3.
+Raw Material Cost: Jackson TN has a lower raw material cost (374.7 USD/ton) compared to Wilton (380.5 USD/ton). 
+4.
+Energy Consumption: Wilton has a higher energy consumption (639 kWh/ton) compared to Jackson TN (425.5 kWh/ton). This indicates a potential area 
+for improvement for Wilton in terms of energy efficiency, specially considering that there is a growth trend in consumption. It is also recommended to 
+act on PowerOff which is much higher in Wilton, and which may be decreasing the performance of energy consumption.
+5.
+Maintenance Cost: The maintenance cost at Jackson TN is lower (28 USD/ton) compared to Wilton 48.3 USD/ton). This suggests that Jackson TN has a 
+more efficient maintenance process.
+6.
+Potential Savings: The potential savings for Jackson TN are lower ($1.8M) compared to Wilton ($4.5M). This indicates that Wilton has a greater 
+opportunity to reduce costs and increase savings. Greatly leveraged by the volume of production.
+Cross-site analysis: Wilton x Jackson TN
+
+*** Page 31 ***
+This content is Internal.
+GROUP 2
+Selected Sites
+Açonorte
+Cearense
+Chimbote
+Riograndense
+Manitoba
+
+*** Page 32 ***
+Performance Evaluation among Plants (Melt Shop)
+Without Alloy Consumption - Period jan/18 to Jul/2024
+INDICATOR WEIGHTS FOR CALCULATING THE SCORE
+Metallic Yield
+3
+Energy Consumption
+3
+PowerOFF
+3
+Electrode Consumption
+1
+Lime Consumption
+1
+Best
+Low cost vs. Low 
+performance
+Low cost vs. High 
+performance
+High cost vs. High 
+performance
+High cost vs. Low 
+performance
+•
+To calculate the performance score, the available indicators that do not refer to cost were considered: Lime Consumption, Electrode
+Consumption, Power Off, Power On, Metallic Yield and Total Energy.
+•
+The Alloy Consumption indicator was disregarded for all plants in this analysis.
+•
+Power Off data was disregarded for the plants: 'LUD','LA','TUL','PIN','CHI','OB','FS’
+•
+Metallic Yield data were disregarded for the plants: 'FS', 'MON'
+•
+For plants in the special group ('CHA', 'FSM', 'PIN', 'MON', 'FS') only data from 2021 was considered.
+•
+The analysis also disregards values ​outside the interquartile range (IQR) for all indicators in all plants, as they are considered outliers.
+First Quartile (25%)
+Third Quartile (75%)
+•
+To measure the plant's performance with itself, the distance between the average of the last three
+months and the best and worst value of the plant within the period of analysis is calculated for each
+indicator.
+•
+To measure the performance of the plant compared to the group, the distance between the
+average of the last three months and the best value of the indicator in the group is calculated.
+•
+To calculate the performance score, first the historical average of each indicator per plant is
+calculated, then the score for each indicator applying a normalization of the data where the plant
+with the worst result receives 1 and the one with the best result 5. Then a weighted average of the
+score of each indicator in the table below for each plant, the result is the performance score.
+First Quartile (25%)
+Third Quartile (75%)
+Performance compared to itself vs Performance compared to the group
+Bubble size: Average monthly production
+Score Cost x Score Performance
+Bubble size: Average monthly production
+
+*** Page 33 ***
+The Riograndense plant has the best result in relation to the performance score and also the lowest Steel 
+Cost together with Açonorte in the group, further has best annual result in metallic yield (94%) in the 
+group, however, has opportunities in steel cost when we compared to itself, Current value is 420.2 
+USD/ton and yours's best value in 3 consecutives months was 222.7 USD/ton;
+The Manitoba plant present opportunities in metallic yield and energy consumption in relation to your 
+peers. When we compare the results, both in metallic yield 89.9% is far from its best value in 3 consecutive 
+months of 90.6% and in energy consumption, its current result is 610.8 kWh/ton while the best value of its 
+group is 448.5 kWh/ton (Açonorte)
+Overview (Score Performance x Cost)
+Bring Chimbote back to its best 
+demonstrated performance levels (low 
+score compared to itself and compared 
+to the group). Main focus should be on 
+Metallic Yield (actuals 86.2 % against best 
+value in 3 consecutives months 89 %) and 
+Energy Consumption (actuals 529.5 
+kWh/ton against best value in 3 
+consecutives months of 382.9 kWh/ton). 
+For Metallic Yield refer to Riograndense 
+(94%) best practices  and for Energy 
+Consumption (462.3 kWh/ton) refer to 
+Açonorte best practices. 
+Key Recommendation to the 
+group
+Cearense
+Presents opportunities in the Electrode 
+Consumption (increasing trend)
+Presents opportunities in Metallic yield below 
+Q1,Steel, Raw Material, Conversion Cost, Lime, 
+Electrode Consumption above Q3
+Riograndense
+Presents opportunities in Electrode 
+Consumption above Q3
+Presents opportunities in Energy consumption 
+and Power on above Q2
+Açonorte
+Presents opportunities in the Electrode 
+Consumption and Power On above Q3 with an 
+increasing trend 
+Presents opportunities in Lime, Electrode  
+Consumption and Power On above Q2 
+Chimbote
+Presents opportunities in the Metallic Yield 
+below Q1 and downward trend and Alloy, 
+Energy,Electrode Consumption and Power Off, 
+Conversion and Maintenance cost  above Q3 
+Presents opportunities in Metallic yield below 
+Q1 and Alloy Consumption, Maintenance Cost 
+above Q3 
+Manitoba
+Presents opportunities in the Power On and 
+maintenance Cost above Q3 with an increasing 
+trend 
+Presents opportunities in Conversion and 
+maintenance Cost, Energy, Electrode 
+Consumption and Power Off/On above Q3 
+Compared to itself
+Compared to group
+Site Analysis
+Deviation Analysis – Overview of Findings and Conclusions
+Period jan/18 to Jul/2024
+
+*** Page 34 ***
+Dynamics Analysis – Overview of Findings and Conclusions
+
+*** Page 35 ***
+Açonorte(Short Tons)
+¹ Last 24 months (Jun/22 to Jul/24)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 36 ***
+Cearense (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 37 ***
+Chimbote (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 38 ***
+Manitoba (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 39 ***
+Riograndense (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 40 ***
+1. Metallic Yield: Manitoba had a best year metallic yield of 89.4%, while Riograndense achieved a yield of 94%. For the current result, Manitoba has 89.9% and Riograndense has 
+92.1%.
+2. Steel Cost: The steel cost in USD/ton was lower in Riograndense (451.2 USD/ton) compared to Manitoba (541.3 USD/ton). This shows that Riograndense is having a big impact on 
+Raw Material Cost. While Manitoba is at its best 3-month value for Conversion Cost
+3. Raw Material Cost: The best raw material cost in USD/ton was is lower in Riograndense (325.7 USD/ton) compared to Manitoba (352.6 USD/ton). This suggests that Manitoba 
+continued with its Raw material cost practices due to low value growth over the past 24 months
+4. Energy Consumption: Manitoba consumed more energy (610.8 kWh/ton) compared to Riograndense (573.7 kWh/ton), indicating potential energy efficiency improvements for 
+Manitoba. 
+5. Maintenance Cost: The maintenance cost in USD/ton was higher in Manitoba (37.1 USD/ton) compared to Riograndense (12.2 USD/t), the same behavior happens in the best 
+values. 
+6. Power On and Off: The Manitoba´s plant has power on time was 41.8 minutes per heat and the power off time was 25.5 minutes per heat. This suggests a benchmark compared to 
+Riograndense which has a power off of 33.4 min/heat and power On of 12.4 min/heat
+Cross-site analysis: Manitoba x Riograndense
+Deviation Analysis – Comparison between highest and lowest Performance Score
+
+*** Page 41 ***
+This content is Internal.
+GROUP 3
+Selected Sites
+Ludueña
+Cosigua
+Araçariguama
+Cartersville
+Whitby
+Petersburg
+Midlothian
+
+*** Page 42 ***
+Performance Evaluation among Plants (Melt Shop)
+Without Alloy Consumption - Period jan/18 to Jul/2024
+INDICATOR WEIGHTS FOR CALCULATING THE SCORE
+Metallic Yield
+3
+Energy Consumption
+3
+PowerOFF
+3
+Electrode Consumption
+1
+Lime Consumption
+1
+Best
+Low cost vs. Low 
+performance
+Low cost vs. High 
+performance
+High cost vs. High 
+performance
+High cost vs. Low 
+performance
+•
+To calculate the performance score, the available indicators that do not refer to cost were considered: Lime Consumption, Electrode
+Consumption, Power Off, Power On, Metallic Yield and Total Energy.
+•
+The Alloy Consumption indicator was disregarded for all plants in this analysis.
+•
+Power Off data was disregarded for the plants: 'LUD','LA','TUL','PIN','CHI','OB','FS’
+•
+Metallic Yield data were disregarded for the plants: 'FS', 'MON'
+•
+For plants in the special group ('CHA', 'FSM', 'PIN', 'MON', 'FS') only data from 2021 was considered.
+•
+The analysis also disregards values ​outside the interquartile range (IQR) for all indicators in all plants, as they are considered outliers.
+First Quartile (25%)
+Third Quartile (75%)
+•
+To measure the plant's performance with itself, the distance between the average of the last three
+months and the best and worst value of the plant within the period of analysis is calculated for each
+indicator.
+•
+To measure the performance of the plant compared to the group, the distance between the
+average of the last three months and the best value of the indicator in the group is calculated.
+•
+To calculate the performance score, first the historical average of each indicator per plant is
+calculated, then the score for each indicator applying a normalization of the data where the plant
+with the worst result receives 1 and the one with the best result 5. Then a weighted average of the
+score of each indicator in the table below for each plant, the result is the performance score.
+First Quartile (25%)
+Third Quartile (75%)
+Performance compared to itself vs Performance compared to the group
+Bubble size: Average monthly production
+Score Cost x Score Performance
+Bubble size: Average monthly production
+
+*** Page 43 ***
+The Luduena has better result in Raw material cost. In relation to group 3 Luduena plant has the largest 
+gap in relation to the performance score, but when compared to itself we see an increase in the 
+performance score
+Midlothian B has highest Steel Cost in the group, and when we compared to itself this opportunity also 
+exist. 
+Overview (Score Performance x Cost)
+The focus on the group is work in 
+Midlothian. The main focus is bring 
+Midlothian Melt shop A back to its best 
+demonstrated performance levels (low 
+score compared to itself) and closer to 
+peers in group, thus reflecting on Steel 
+Cost score improvement. Main focus 
+should be on Metallic Yield (actuals 
+84.4% against best value in 3 
+consecutives months 89.7%) and Lime 
+Consumption (actuals 109.5 lb/ton 
+against best 80.2 lb/ton).  For both 
+Metallic Yield and Lime Consumption 
+refer to Araçariguama leading practices. 
+Key Recommendation to the 
+group
+Cosigua
+Presents opportunities in the Power on/off and conversion 
+cost and present major potential finance in Metallic yield
+Presents opportunities in the Power On between Q1 and Q2
+Araçariguama
+Presents opportunities in the Electrode consumption Power 
+On and present major potential finance in Electrode 
+Consumption
+Presents opportunities in the Power On in Q2
+Cartersville
+Presents opportunities in the Alloy Consumption, Conversion 
+Cost, Lime, Energy, Electrode Consumption and Maintenance 
+Cost above Q3 
+Presents opportunities in Electrode Consumption above Q3 
+Midlothian A 
+Presents opportunities in the Metallic Yield in and Alloy 
+Consumption (increasing trend) and Lime Consumption and 
+Power On above Q3 
+Presents opportunities in the Metallic Yield below Q1 and Lime 
+Consumption and Power On above Q3  
+Midlothian B 
+Presents opportunities in the Energy, Electrode Consumption 
+and Power On above Q3 
+Presents opportunities in the Alloy Consumption, Conversion 
+Cost, Electrode Consumption and Maintenance Cost above Q3 
+Ludueña
+Presents opportunities in the Conversion cost above Q3
+Presents opportunities in the Metallic Yield below Q1, 
+Conversion cost, Lime consumption and Energy consumption 
+above Q3 
+Whitby
+Presents opportunities in the Energy  above Q3 and major 
+potential finance in Energy consumption
+Presents opportunities in the Conversion cost, Electrode 
+Consumption and Maintenance cost above Q3 
+Petersburg
+Presents opportunities in the Electrode Consumption and 
+Power Off above Q3 
+Presents opportunities in the Alloy Consumption and electrode 
+Consumption above Q3 
+Compared to itself
+Compared to group
+Site Analysis
+Deviation Analysis – Overview of Findings and Conclusions
+Period jan/18 to Jul/2024
+
+*** Page 44 ***
+Dynamics Analysis – Overview of Findings and Conclusions
+
+*** Page 45 ***
+Dynamics Analysis – Overview of Findings and Conclusions
+
+*** Page 46 ***
+Araçariguama (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 47 ***
+Cosigua (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 48 ***
+Cartersville (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 49 ***
+Ludueña (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 50 ***
+Midlothian A (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 51 ***
+Midlothian B (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 52 ***
+Petersburg (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 53 ***
+Whitby (Short Tons)
+COMMENTS:
+This data is based on the total period in which Whitby had a furnace change. This is important to know as it had no impact on the 
+current result, but it is important to note that the trend is in the direction of attention
+Empty Data represents indicators not validated/and/or not measured in the plant.
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+
+*** Page 54 ***
+1. Metallic Yield: The Ludueña plant has a lower metallic yield (83.1%) compared to the Araçariguama plant (92.4%). Luduena also demonstrate opportunities when we compare the 
+current value to best value in 3 consecutives months (86.7%)
+2. Steel Cost: The steel cost at the Ludueña plant (578.2 USD/ton) is higher than at the Araçariguama plant (459 USD/ton). Although Ludueña has a lower raw material cost than 
+Araçariguama. This demonstrates that Ludueña has more opportunities in physical indicators.
+3. Conversion Cost: The conversion cost of the Ludueña plant is 2x higher than the value of the Araçariguama plant
+4. Raw Material Cost: The raw material cost at the Ludueña plant (311.5 USD/ton) is lower than at the Araçariguama plant (357.8 USD/ton). This suggests that the Ludueña plant has a 
+more cost-effective raw material sourcing strategy, It uses a scrap composition with low quality and low cost. This also has an impact on the metallic yield which is lower in Ludueña
+5. Maintenance Cost: The maintenance cost at the Ludueña plant (25.5 USD/ton) is higher than at the Araçariguama plant (9.6 USD/ton). This suggests that the Ludueña plant could 
+benefit from improved maintenance practices.
+Cross-site analysis: Luduena x Araçariguama
+Deviation Analysis – Comparison between highest and lowest Performance Score
+
+*** Page 55 ***
+This content is Internal.
+GROUP 4
+Selected Sites
+Barão de Cocais
+
+*** Page 56 ***
+Performance Evaluation among Plants (Melt Shop)
+Without Alloy Consumption - Period jan/18 to Jul/2024
+Best
+Low cost vs. Low 
+performance
+Low cost vs. High 
+performance
+High cost vs. High 
+performance
+High cost vs. Low 
+performance
+•
+To calculate the performance score, the available indicators that do not refer to cost were considered: Lime Consumption, Electrode
+Consumption, Power Off, Power On, Metallic Yield and Total Energy.
+•
+The Alloy Consumption indicator was disregarded for all plants in this analysis.
+•
+Power Off data was disregarded for the plants: 'LUD','LA','TUL','PIN','CHI','OB','FS’
+•
+Metallic Yield data were disregarded for the plants: 'FS', 'MON'
+•
+For plants in the special group ('CHA', 'FSM', 'PIN', 'MON', 'FS') only data from 2021 was considered.
+•
+The analysis also disregards values ​outside the interquartile range (IQR) for all indicators in all plants, as they are considered outliers.
+•
+To measure the plant's performance with itself, the distance between the average of the last three
+months and the best and worst value of the plant within the period of analysis is calculated for each
+indicator.
+•
+To measure the performance of the plant compared to the group, the distance between the
+average of the last three months and the best value of the indicator in the group is calculated.
+•
+To calculate the performance score, first the historical average of each indicator per plant is
+calculated, then the score for each indicator applying a normalization of the data where the plant
+with the worst result receives 1 and the one with the best result 5. Then a weighted average of the
+score of each indicator in the table below for each plant, the result is the performance score.
+INDICATOR WEIGHTS FOR CALCULATING THE SCORE
+Metallic Yield
+3
+Energy Consumption
+3
+PowerOFF
+3
+Electrode Consumption
+1
+Lime Consumption
+1
+Performance compared to itself vs Performance compared to the group
+Bubble size: Average monthly production
+Score Cost x Score Performance
+Bubble size: Average monthly production
+
+*** Page 57 ***
+Barão de Cocais (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 58 ***
+Deviation Analysis – Overview of Findings and Conclusions
+1. Metallic Yield: The metallic yield of the Barão de Cocais plant is currently at 87.5%, which is slightly 
+lower than its best year value of 89,64%. In addition, metallic yield is between quartile 1 and quartile 2, 
+demonstrating there are opportunity to increase this values .
+2. Steel Cost: The current steel cost at the Barão de Cocais plant is higher (498.4 USD/t) than its best value 
+in 3 consecutives months (275.5 USD/t)
+3. Raw Material Cost: The raw material cost at the Barão de Cocais plant is currently higher (383.4 
+USD/ton) than its best year value (216.7 USD/ton). 
+4. Conversion Cost: The conversion cost at the Barão de Cocais plant is currently higher (115 USD/ton) 
+than its best year value (51.1 USD/ton). This indicates a gap and a potential area for cost reduction.
+5. Energy Consumption: The energy consumption at the Barão de Cocais plant is currently higher (96.3 
+kWh/ton) than its best year value (63.9 kWh/ton).
+6. Maintenance Cost: The maintenance cost at the Barão de Cocais plant is currently higher (11.7 
+USD/ton) than its best year value (5.3 USD/ton). This indicates a potential area for cost reduction.
+Overview (Score Performance x Cost)
+Data suggests that Barão de Cocais Melt 
+Shop when compared to itself is far from 
+historical best demonstrated 
+performance (Low Performance Score 
+when compared to itself). Key 
+recommendation is then to bring back 
+the best demonstrated performance 
+levels. Potential savings analysis suggests 
+that main focus should be given to 
+Metallic Yield where current operation is  
+87.5% when Barão de Cocais already 
+demonstrated performance to 88.9%. 
+Secondary focus should be on Alloy 
+Consumption where current operation is 
+close to 24.5 lb/ton when the site already 
+demonstrated performance close to 21.1 
+lb/ton.
+Key Recommendation to the 
+group
+
+*** Page 59 ***
+This content is Internal.
+GROUP 5
+Selected Sites
+Charlotte
+Sahagun
+
+*** Page 60 ***
+Performance Evaluation among Plants (Melt Shop)
+Without Alloy Consumption - Period jan/18 to Jul/2024
+INDICATOR WEIGHTS FOR CALCULATING THE SCORE
+Metallic Yield
+3
+Energy Consumption
+3
+PowerOFF
+3
+Electrode Consumption
+1
+Lime Consumption
+1
+Best
+Low cost vs. Low 
+performance
+Low cost vs. High 
+performance
+High cost vs. High 
+performance
+High cost vs. Low 
+performance
+•
+To calculate the performance score, the available indicators that do not refer to cost were considered: Lime Consumption, Electrode
+Consumption, Power Off, Power On, Metallic Yield and Total Energy.
+•
+The Alloy Consumption indicator was disregarded for all plants in this analysis.
+•
+Power Off data was disregarded for the plants: 'LUD','LA','TUL','PIN','CHI','OB','FS’
+•
+Metallic Yield data were disregarded for the plants: 'FS', 'MON'
+•
+For plants in the special group ('CHA', 'FSM', 'PIN', 'MON', 'FS') only data from 2021 was considered.
+•
+The analysis also disregards values ​outside the interquartile range (IQR) for all indicators in all plants, as they are considered outliers.
+First Quartile (25%)
+Third Quartile (75%)
+•
+To measure the plant's performance with itself, the distance between the average of the last three
+months and the best and worst value of the plant within the period of analysis is calculated for each
+indicator.
+•
+To measure the performance of the plant compared to the group, the distance between the
+average of the last three months and the best value of the indicator in the group is calculated.
+•
+To calculate the performance score, first the historical average of each indicator per plant is
+calculated, then the score for each indicator applying a normalization of the data where the plant
+with the worst result receives 1 and the one with the best result 5. Then a weighted average of the
+score of each indicator in the table below for each plant, the result is the performance score.
+First Quartile (25%)
+Third Quartile (75%)
+Performance compared to itself vs Performance compared to the group
+Bubble size: Average monthly production
+Score Cost x Score Performance
+Bubble size: Average monthly production
+
+*** Page 61 ***
+The Sahagun plant has upward trend in conversion cost and although the current value is good, there is a 
+gap in energy consumption, being Sahagun has the best value to energy consumption in the Gerdau´s 
+plants. Sahagun  has a greater opportunity in performance and cost.
+The Charlotte plant has the downward trend in the metallic yield and upward trend in steel cost and 
+conversion cost, the major opportunity showed in the results is Metallic Yield, comparing the current value 
+(89%) with the best value in 3 consecutives months (91.5%)
+Overview (Score Performance x Cost)
+Sahagun represents the highest 
+production volume in the group 5. Data 
+suggests that Metallic Yield should be the 
+priority – current value indicates 88.2% 
+with a downward trend, but Sahagun 
+demonstrated a best historical value 
+close to 91.6%. Energy Consumption 
+should be the secondary focus – current 
+value indicates 635.7 kWh/ton with an 
+upward trend, but Sahagun 
+demonstrated a best value in 3 
+consecutives months close to 453.7 
+kWh/ton.
+Key Recommendation to the 
+group
+Charlotte
+Presents opportunities in the Alloy 
+Consumption and Power Off above Q3. 
+Presents opportunities in the Alloy 
+Consumption and Conversion above Q3 
+Sahagun
+Presents opportunities in the Raw Material 
+Cost, Lime and Energy consumption above 
+Q3
+Presents opportunities in the Metallic Yield 
+below Q1, Lime and energy Consumption 
+and Power Off above Q3 
+Compared to itself
+Compared to group
+Site Analysis
+Deviation Analysis – Overview of Findings and Conclusions
+Period jan/18 to Jul/2024
+
+*** Page 62 ***
+Dynamics Analysis – Overview of Findings and Conclusions
+
+*** Page 63 ***
+Charlotte (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 64 ***
+Sahagun (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 65 ***
+1. Metallic Yield: The Sahagun plant has a higher best year metallic yield (90.9%) compared to the Charlotte plant (90.8%). However, the current value of metallic yield is lower in the 
+Sahagun plant (88.2%) than in the Charlotte plant (89%).
+2. Steel Cost: The steel cost is higher in the Sahagun plant (606.6 USD/ton) compared to the Charlotte plant (543.9 USD/ton). 
+3. Raw Material Cost: The raw material cost is higher in the Sahagun plant (445.7 USD/ton) compared to the Charlotte plant (337.6 USD/ton)
+4. Energy consumption: Despite Sahagun plant has the best result from Gerdau´s plant, in the current value this demonstrate the major opportunities
+5. Opportunities: The potential savings in the Sahagun plant (17.4 USD/year) are higher than in the Charlotte plant (3.8M USD/year). This indicates that there are more opportunities 
+for cost reduction in the Sahagun plant.
+Cross-site analysis: Charlotte x Sahagun
+Deviation Analysis – Comparison between highest and lowest Performance Score
+
+*** Page 66 ***
+This content is Internal.
+GROUP 6
+Selected Sites
+Charqueadas
+Pindamonhangaba
+Fort Smith
+Monroe
+
+*** Page 67 ***
+Performance Evaluation among Plants (Melt Shop)
+Without Alloy Consumption - Period jan/18 to Jul/2024
+INDICATOR WEIGHTS FOR CALCULATING THE SCORE
+Metallic Yield
+3
+Energy Consumption
+3
+PowerOFF
+3
+Electrode Consumption
+1
+Lime Consumption
+1
+Best
+Low cost vs. Low 
+performance
+Low cost vs. High 
+performance
+High cost vs. High 
+performance
+High cost vs. Low 
+performance
+•
+To calculate the performance score, the available indicators that do not refer to cost were considered: Lime Consumption, Electrode
+Consumption, Power Off, Power On, Metallic Yield and Total Energy.
+•
+The Alloy Consumption indicator was disregarded for all plants in this analysis.
+•
+Power Off data was disregarded for the plants: 'LUD','LA','TUL','PIN','CHI','OB','FS’
+•
+Metallic Yield data were disregarded for the plants: 'FS', 'MON'
+•
+For plants in the special group ('CHA', 'FSM', 'PIN', 'MON', 'FS') only data from 2021 was considered.
+•
+The analysis also disregards values ​outside the interquartile range (IQR) for all indicators in all plants, as they are considered outliers.
+First Quartile (25%)
+Third Quartile (75%)
+•
+To measure the plant's performance with itself, the distance between the average of the last three
+months and the best and worst value of the plant within the period of analysis is calculated for each
+indicator.
+•
+To measure the performance of the plant compared to the group, the distance between the
+average of the last three months and the best value of the indicator in the group is calculated.
+•
+To calculate the performance score, first the historical average of each indicator per plant is
+calculated, then the score for each indicator applying a normalization of the data where the plant
+with the worst result receives 1 and the one with the best result 5. Then a weighted average of the
+score of each indicator in the table below for each plant, the result is the performance score.
+First Quartile (25%)
+Third Quartile (75%)
+Performance compared to itself vs Performance compared to the group
+Bubble size: Average monthly production
+Score Cost x Score Performance
+Bubble size: Average monthly production
+
+*** Page 68 ***
+The Charqueadas melt shop has the highest performance score and cost performance in the group, being 
+the group benchmark for the major indicators, however, demonstrate gap when we compared to itself. 
+Other side, Pinda melt shop has all indicators in good trend, but present opportunities when compared to 
+group
+Overview (Score Performance x Cost)
+The data shows that Pinda has a great 
+opportunity in the performance score 
+when compared to Charqueadas, mainly 
+in metallic yield, being Pinda with current 
+value of 83.2% and Charqueadas with 
+84.4%, in Second place the energy 
+consumption, where Pinda has a current 
+value of 609.4 kWh/ton while the best 
+value in 3 consecutives months was 
+572.8 kWh/ton. This 2 indicator 
+represents a greater weight in the Steel 
+Cost, and immediate action is 
+recommended on them.
+Key Recommendation to the 
+group
+Charqueadas
+Presents opportunities in the Metallic Yield 
+below Q1 and Electrode consumption 
+above Q3 
+Presents opportunities in Electrode 
+Consumption above Q2
+Pinda
+Presents opportunities Electrode 
+consumption above Q2 and major 
+potential finance in Metallic yield , 
+followed by Electrode consumption
+Presents opportunities in the Alloy 
+Consumption, Energy and Electrode 
+Consumption above Q2 
+Fort Smith 
+Presents opportunities in the Raw Material
+Cost above Q3 
+Presents opportunities in the Maintenance 
+Cost above Q3 
+Monroe
+Presents opportunities in the Raw Material
+Cost above Q3 
+Presents opportunities in the Metallic Yield 
+below Q2,Maintenance Cost and Power On 
+above Q2 
+Compared to itself
+Compared to group
+Site Analysis
+Deviation Analysis – Overview of Findings and Conclusions
+Period jan/18 to Jul/2024
+
+*** Page 69 ***
+Dynamics Analysis – Overview of Findings and Conclusions
+
+*** Page 70 ***
+Charqueadas (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+•
+Cost data is being considered, starting in 2021 for availability in DataLayer
+•
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 71 ***
+Fort Smith (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+The Fort Smith and Monroe plants were not considered in the analyses, with 50% of the data being null or considered as statistical outliers.
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 72 ***
+Monroe (Short Tons)
+COMMENTS:
+The Fort Smith and Monroe plants were not considered in the dynamics analyses, with some null or considered as statistical outliers. data being 
+Empty Data represents indicators not validated/and/or not measured in the plant.
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+
+*** Page 73 ***
+Pindamonhangaba (Short Tons)
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+COMMENTS:
+•
+Pinda presents an opportunity in metallic yield, but it is possible to notice that the values are already in the quartile of better result compared to itself, 
+this may be related to the start of the new casting. 
+•
+Cost data is being considered, starting in 2021 for availability in DataLayer
+•
+Empty Data represents indicators not validated/and/or not measured in the plant.
+
+*** Page 74 ***
+1. Metallic Yield: The Charqueadas plant has a higher metallic yield percentage than the Monroe plant. Charqueadas has a best year yield of 85.8% compared to Monroe 84.8%. 
+2. Steel Cost: The steel cost per ton is higher in Monroe than in Charqueadas, considering the last 3 months, the steel cost for Monroe was 708 USD/ton, while for Charqueadas it 
+was 579.3 USD/ton. This indicates that Charqueadas is more cost-effective
+3. Raw Material Cost: The raw material cost per ton is lower in Monroe than in Charqueadas considering the last 3 months, the raw material cost for Monroe was 257.9 USD/ton, 
+while for Charqueadas it was 360.8 USD/ton. 
+4. Conversion Cost: The conversion cost per ton is lower in Charqueadas than in Monroe considering the last 3 months, the conversion cost for Monroe is 230.9 USD/t, while for 
+Charqueadas it was 108.6 USD/t. 
+Cross-site analysis: Charqueadas x Monroe
+Deviation Analysis – Comparison between highest and lowest Performance Score
+
+*** Page 75 ***
+This content is Internal.
+GROUP 7
+Selected Sites
+Ouro Branco
+
+*** Page 76 ***
+Performance Evaluation among Plants (Melt Shop)
+Without Alloy Consumption - Period jan/18 to Jul/2024
+INDICATOR WEIGHTS FOR CALCULATING THE SCORE
+Metallic Yield
+3
+Energy Consumption
+3
+PowerOFF
+3
+Electrode Consumption
+1
+Lime Consumption
+1
+Best
+Low cost vs. Low 
+performance
+Low cost vs. High 
+performance
+High cost vs. High 
+performance
+High cost vs. Low 
+performance
+•
+To calculate the performance score, the available indicators that do not refer to cost were considered: Lime Consumption, Electrode
+Consumption, Power Off, Power On, Metallic Yield and Total Energy.
+•
+The Alloy Consumption indicator was disregarded for all plants in this analysis.
+•
+Power Off data was disregarded for the plants: 'LUD','LA','TUL','PIN','CHI','OB','FS’
+•
+Metallic Yield data were disregarded for the plants: 'FS', 'MON'
+•
+For plants in the special group ('CHA', 'FSM', 'PIN', 'MON', 'FS') only data from 2021 was considered.
+•
+The analysis also disregards values ​outside the interquartile range (IQR) for all indicators in all plants, as they are considered outliers.
+•
+To measure the plant's performance with itself, the distance between the average of the last three
+months and the best and worst value of the plant within the period of analysis is calculated for each
+indicator.
+•
+To measure the performance of the plant compared to the group, the distance between the
+average of the last three months and the best value of the indicator in the group is calculated.
+•
+To calculate the performance score, first the historical average of each indicator per plant is
+calculated, then the score for each indicator applying a normalization of the data where the plant
+with the worst result receives 1 and the one with the best result 5. Then a weighted average of the
+score of each indicator in the table below for each plant, the result is the performance score.
+Performance compared to itself vs Performance compared to the group
+Bubble size: Average monthly production
+Score Cost x Score Performance
+Bubble size: Average monthly production
+
+*** Page 77 ***
+Ouro Branco (Short Tons) – Melt Shop
+COMMENTS:
+Some results of the Ouro Branco steel mill may be due to prioritization in the reduction
+Empty Data represents indicators not validated/and/or not measured in the plant.
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+
+*** Page 78 ***
+Ouro Branco (Short Tons) – Reduction
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+
+*** Page 79 ***
+Deviation Analysis – Overview of Findings and Conclusions
+1. Metallic Yield: The best value in 3 consecutives months was 87.8%, while the current yield is 86.8%. 
+2. Steel Cost: The best year in steel cost was USD 286.5 per ton, while the current cost is USD 480.4 per 
+ton. This indicates an increase in cost, suggesting an opportunity for cost reduction.
+3. Alloy Consumption: The best value in 3 consecutives months in alloy consumption was 26.6 lb per ton, 
+while the current consumption is 34.6 lb per ton. This indicates an increase in consumption, suggesting 
+an opportunity for efficiency improvement.
+4. Conversion Cost: The best value in 3 consecutives months  in conversion cost was USD 44.1 per ton, 
+while the current cost is USD 84.8 per ton. This shows an increase in cost, indicating an opportunity for 
+cost reduction.
+5. Lime Consumption: The best value in 3 consecutives months in lime consumption was 153 lb per ton, 
+while the current consumption is 218.2 lb per ton. This indicates an increase in consumption, 
+suggesting an opportunity for efficiency improvement.
+6. Maintenance Cost: The best value in 3 consecutives months in maintenance cost was USD 6.3 per ton, 
+while the current cost is USD 11.5 per ton. This shows an increase in cost, indicating an opportunity for 
+cost reduction.
+Overview (Score Performance x Cost)
+Data suggests that Ouro Branco’s Melt 
+Shop when compared to itself is far from 
+historical best demonstrated 
+performance (Low Performance Score 
+when compared to itself). Key 
+recommendation is then to bring back 
+the best demonstrated performance 
+levels. Potential savings analysis suggests 
+that main focus should be given to 
+Metallic Yield where current operation is 
+close to 86.8% when Ouro Branco 
+already demonstrated performance close 
+to 87.8%. Secondary focus should be on 
+Lime Consumption where current 
+operation is close to 218.2 lb/ton when 
+the site already demonstrated 
+performance close to 153 lb/ton.
+Key Recommendation to the 
+group
+
+*** Page 80 ***
+Dynamics Analysis – Overview of Findings and Conclusions
+
+*** Page 81 ***
+This content is Internal.
+GROUP 8
+Selected Sites
+Divinópolis
+
+*** Page 82 ***
+Performance Evaluation among Plants (Melt Shop)
+Without Alloy Consumption - Period jan/18 to Jul/2024
+INDICATOR WEIGHTS FOR CALCULATING THE SCORE
+Metallic Yield
+3
+Energy Consumption
+3
+PowerOFF
+3
+Electrode Consumption
+1
+Lime Consumption
+1
+Best
+Low cost vs. Low 
+performance
+Low cost vs. High 
+performance
+High cost vs. High 
+performance
+High cost vs. Low 
+performance
+•
+To calculate the performance score, the available indicators that do not refer to cost were considered: Lime Consumption, Electrode
+Consumption, Power Off, Power On, Metallic Yield and Total Energy.
+•
+The Alloy Consumption indicator was disregarded for all plants in this analysis.
+•
+Power Off data was disregarded for the plants: 'LUD','LA','TUL','PIN','CHI','OB','FS’
+•
+Metallic Yield data were disregarded for the plants: 'FS', 'MON'
+•
+For plants in the special group ('CHA', 'FSM', 'PIN', 'MON', 'FS') only data from 2021 was considered.
+•
+The analysis also disregards values ​outside the interquartile range (IQR) for all indicators in all plants, as they are considered outliers.
+•
+To measure the plant's performance with itself, the distance between the average of the last three
+months and the best and worst value of the plant within the period of analysis is calculated for each
+indicator.
+•
+To measure the performance of the plant compared to the group, the distance between the
+average of the last three months and the best value of the indicator in the group is calculated.
+•
+To calculate the performance score, first the historical average of each indicator per plant is
+calculated, then the score for each indicator applying a normalization of the data where the plant
+with the worst result receives 1 and the one with the best result 5. Then a weighted average of the
+score of each indicator in the table below for each plant, the result is the performance score.
+Performance compared to itself vs Performance compared to the group
+Bubble size: Average monthly production
+Score Cost x Score Performance
+Bubble size: Average monthly production
+
+*** Page 83 ***
+Divinópolis (Short Tons)
+COMMENTS:
+Empty Data represents indicators not validated/and/or not measured in the plant.
+¹ Last 24 months (Jun/22 to Jul/2024)
+² Average of the last 3 months (May/24 to Jul/2024)
+³ Between "Best value in 3 consecutive months (2018 to Jul/2024)" and "Current value"
+4Period 2018 to Jul/2024
+
+*** Page 84 ***
+Deviation Analysis – Overview of Findings and Conclusions
+1. Metallic Yield: The best value in 3 consecutives months in metallic yield was 86.1%, while the current 
+yield is 83.6%. This gap indicates a decrease in efficiency, presenting an opportunity for improvement.
+Also generating a financial potential of 5.9M USD
+2. Steel Cost: The best value in 3 consecutives months in steel cost was USD 271.5 per ton, while the 
+current cost is USD 517.4 per ton. This increase in cost suggests a need for cost reduction strategies.
+3. Conversion Cost: The best value in 3 consecutives months in conversion cost was USD 51.4 per ton, 
+while the current cost is USD 108.9 per ton. This increase in cost suggests a need for cost reduction 
+strategies.
+4. Lime Consumption: The best value in 3 consecutives months in lime consumption was 122 lb per ton, 
+while the current consumption is 158.3 lb per ton. This decrease in consumption may suggest improved 
+efficiency or a potential quality issue.
+5. Maintenance Cost: The best value in 3 consecutives months in maintenance cost was USD 5.5 per ton, 
+while the current cost is USD 12.7 per ton. This decrease in cost suggests improved maintenance 
+efficiency.
+Overview (Score Performance x Cost)
+Data suggests that Divinopolis’ Melt 
+Shop has high scores for both 
+Performance and Steel Cost. When 
+compared to itself there is still an 
+opportunity for Divinopolis to be closer 
+to its historical best demonstrated 
+performance levels. Key 
+recommendation is then to pursue this 
+opportunity being main focus should be 
+given to Metallic Yield where the last 3 
+months operation are indicating a 
+deviation from already demonstrated 
+performance close to 83.6%. When 
+observing the other KPIs not much 
+attention is suggested by the data as 
+Divinopolis operates close to its best.
+Key Recommendation to the 
+group
+
+*** Page 85 ***
+Dynamics Analysis – Overview of Findings and Conclusions
+
+*** Page 86 ***
+This content is Internal.
+Appendix: Additional 
+Related Documents
+
+*** Page 87 ***
+This content is Internal.
+Financial 
+Opportunities 
+Potential Gap Report 
+
+*** Page 88 ***
+The data went through a three-step cleansing process.
+(1) Whenever relevant, false zeros (from the way the data were extracted) were replaced by empty ones, so 
+as not to contaminate the analysis of means and deviations.
+(2) Clearly atypical data (usually collection or recording error, values extrapolated from the limit of analysis 
+via IQR were replaced by empty data, so as not to contaminate the analysis of means and deviations:
+(3) Data with values above or below the indicator's threshold (e.g. yields greater than 100%, negative costs) 
+were replaced by empty ones, so as not to contaminate the analysis of averages and deviations.
+(4) The groups were defined according to the validation with the specialist described in the following slides 
+for steelmaking and rolling mills.
+(5) To calculate the current value (Last MM3), the last moving average with three values greater than zero 
+was considered.
+(6) To adjust for the potential gain, the rates were adjusted for present value (average of the last 3 months).
+(7) All values that needed to be calculated by average followed the indicator sheets for the cumulative rules
+Data Processing Assumptions
+
+*** Page 89 ***
+RATIONALE FOR CALCULATING THE GAPS
+CONSUMPTION INDICATORS
+Consumption 
+Indicators
+Sum of last 3 months of Absolute Cost
+Sum of last 3 months of Absolute Consumption
+Potential gain
+Production in the last 3 months
+*
+*
+(
+)
+=(
+)
+Melt Shop
+•
+Electrode Consumption 
+•
+Energy Consumption
+•
+Lime Consumption
+METALLIC YIELD
+Metallic yield
+Avg last 3 months production
+Potential gain
+Avg Steel cost of the last 3 months
+=
+*
+*
+Melt Shop
+•
+Metallic Yield
+Rolling Mill
+•
+Metallic Yield
+* 12
+POTENTIAL GAIN
+Potential gain
+Avg last 3 months for indicator
+Best Value in 3 consecutives¹
+=
+-
+* 12
+(1) It consists of the Highest/Lowest 3-month moving average following the indicator's guidance 
+(Indicator better up/Indicator better down from Jan/18 to Jul/24)
+
+*** Page 90 ***
+Potential gain of Melt Shop and Rolling Mill
+291 MM USD¹
+201 MM USD¹
+Melt Shop
+•
+Electrode Consumption – 24.1 MM USD
+•
+Energy Consumption – 25 MM USD
+•
+Lime Consumption– 22.4 MM USD
+•
+Metallic Yield – 129.8 MM USD
+Rolling Mill
+•
+Metallic Yield – 89 MM USD
+89 MM USD¹
+Total result comparing the PLANT WITH ITS 
+BEST HISTORICAL VALUE² in 3 CONSECUTIVE 
+MONTHS
+(2) Data from Jan/2018 to Jul/2024
+(1) Data in MM USD / Year
+
+*** Page 91 ***
+291 MM USD¹
+201 MM USD¹
+Melt Shop
+•
+Electrode Consumption – 24.1 MM USD
+•
+Energy Consumption – 25 MM USD
+•
+Lime Consumption– 22.4 MM USD
+•
+Metallic Yield – 129.8 MM USD
+Rolling Mill
+•
+Metallic Yield – 79 MM USD
+89 MM USD¹
+Total result comparing the PLANT WITH ITS BEST 
+HISTORICAL VALUE² in 3 CONSECUTIVE MONTHS
+54
+33
+32
+27
+14
+13
+11
+10
+9
+9
+8
+8
+7
+7
+6
+6
+6
+6
+5
+5
+4
+4
+2
+2
+2
+1
+1
+0
+291
+0
+50
+100
+150
+200
+250
+300
+350
+MIDLOTHIAN
+SAHAGÚN
+OURO BRANCO
+PETERSBURG
+CHARQUEADAS
+TULTITLÁN
+FORT SMITH
+CARTERSVILLE
+DIVINÓPOLIS
+WILTON
+CHIMBOTE
+MONROE
+WHITBY
+JACKSON TN
+MANITOBA
+AÇONORTE
+LUDUEÑA
+CHARLOTTE
+PINDA
+COSIGUA
+RIOGRANDENSE
+CAMBRIDGE
+BARÃO DE COCAIS
+ARAÇARIGUAMA
+LA PRESA
+CEARENSE
+MONTEVIDEO
+CAUCAIA
+MM USD
+130
+61
+47
+19
+19
+8
+7 291
+0
+50
+100
+150
+200
+250
+300
+350
+GLN
+GAB Total
+GLM
+GSN
+GSB
+GLP
+GLAY
+MM USD
+Potential gain by Business Unit
+Potential gain by site
+Waterfall - Potential gain by site
+(1) Data in MM USD / Year
+(2) Data from Jan/2018 to Jul/2024
+Potential gain of Melt Shop and Rolling Mill 
+Historical comparison (Jan/2018 to Jul/2024)
+Melt Shop
+Rolling Mill
+Total
+GAB Total
+$         50.46 
+$         10.61 
+$         61.08 
+GAB-MiniMills
+$         21.09
+$            8.03 
+$         29.12
+GAB-OB
+$         29.38
+$            2.58
+$         31.96
+GLN
+$         74.42 
+$         55.61 
+$      130.03 
+GLM
+$         30.69 
+$         16.04 
+$         46.73 
+GSB
+$         19.31 
+$                  -
+$         19.31 
+GSN
+$         14.13 
+$            4.60 
+$         18.73 
+GLAY
+$            7.02 
+$                  -
+$            7.02 
+GLA
+$            6.43
+$                  -
+$            6.43
+GLY
+$            0.60
+$                  -
+$            0.60
+GLP
+$            5.77 
+$            2.37 
+$            8.14 
+Total
+$      201.80 
+$         89.24 
+$      291.04 
+Melt Shop
+MM USD
+Rolling Mill
+MM USD
+Total
+MM USD
+Melt Shop
+MM USD
+Rolling Mill
+MM USD
+Total
+MM USD
+MIDLOTHIAN
+$         38.10 $         15.51 $         53.61 
+AÇONORTE
+$            4.14 $            2.33 $            6.47 
+OURO BRANCO
+$         29.38 $            2.58 $         31.96 
+CHARQUEADAS
+$         14.33 $                  - $         14.33 
+SAHAGÚN
+$         19.48 $         13.13 $         32.60 
+PINDA
+$            4.98 $                  - $            4.98 
+FORT SMITH
+$            9.88 $            1.15 $         11.03 
+RIOGRANDENSE
+$            2.68 $            1.42 $            4.10 
+PETERSBURG
+$            9.52 $         17.69 $         27.22 
+LUDUEÑA
+$            6.43 $                  - $            6.43 
+TULTITLÁN
+$         11.21 $            1.36 $         12.57 
+CAMBRIDGE
+$                  - $            4.02 $            4.02 
+CARTERSVILLE
+$            6.99 $            2.79 $            9.79 
+COSIGUA
+$            2.23 $            2.29 $            4.53 
+MONROE
+$            4.25 $            3.45 $            7.70 
+CHARLOTTE
+$            4.83 $            0.89 $            5.73 
+DIVINÓPOLIS
+$            8.31 $            1.13 $            9.44 
+BARÃO DE COCAIS
+$            2.34 $            0.01 $            2.35 
+JACKSON TN
+$            3.85 $            2.80 $            6.65 
+CEARENSE
+$            0.43 $            0.18 $            0.61 
+WILTON
+$            5.39 $            3.69 $            9.08 
+ARAÇARIGUAMA
+$            0.95 $            0.67 $            1.62 
+CHIMBOTE
+$            5.77 $            2.37 $            8.14 
+MONTEVIDEO
+$            0.60 $                  - $            0.60 
+WHITBY
+$            3.25 $            4.22 $            7.46 
+LA PRESA
+$                  - $            1.56 $            1.56 
+MANITOBA
+$            2.49 $            4.00 $            6.48 
+CAUCAIA
+$                  -
+$                  -
+$                  -
+
+*** Page 92 ***
+Potential gain per indicator x mill – Melt Shop
+PLANT WITH ITS BEST HISTORICAL VALUE in 3 CONSECUTIVE MONTHS x AVAREGE LAST 3 MONTHS
+
+*** Page 93 ***
+Potential gain per indicator x mill – Rolling Mill (1/2)
+PLANT WITH ITS BEST HISTORICAL VALUE in 3 CONSECUTIVE MONTHS x AVAREGE LAST 3 MONTHS
+
+*** Page 94 ***
+Potential gain per indicator x mill – Rolling Mill (2/2)
+PLANT WITH ITS BEST HISTORICAL VALUE in 3 CONSECUTIVE MONTHS x AVAREGE LAST 3 MONTHS
+
+*** Page 95 ***
+This content is Internal.
+Descriptive Analysis
+
+*** Page 96 ***
+• To calculate the performance score, first the historical average of each indicator per plant is calculated,
+then the score for each indicator applying a normalization of the data where the plant with the worst
+result receives 1 and the one with the best result 5. Then a weighted average of the score of each
+indicator in the table below for each plant, the result is the performance score.
+• To calculate the performance score, the available indicators that do not refer to cost were considered:
+Lime Consumption, Electrode Consumption, Power Off, Metallic Yield and Total Energy.
+• To measure the plant's performance with itself, the distance between the average of the last three
+months and the best and worst value of the plant within the period of analysis is calculated for each
+indicator.
+• To measure the performance of the plant compared to the group, the distance between the average of
+the last three months and the best value of the indicator in the group is calculated.
+• The Alloy Consumption indicator was disregarded for all plants in this analysis.
+• Power Off data was disregarded for the plants: 'LUD','LA','TUL','PIN','CHI','OB',’FS’,’BCOC’,’DIV’
+• Total Energy data was disregarded for the plants: 'LUD','OB',’BCOC’,’DIV’
+• Metallic Yield data were disregarded for the plants: 'FS', 'MON'
+• For plants in the special group ('CHA', 'FSM', 'PIN', 'MON', 'FS') only data from 2021 was considered.
+• The analysis also disregards values ​outside the interquartile range (IQR) for all indicators in all plants, as
+they are considered outliers.
+Data Processing Assumptions
+
+*** Page 97 ***
+RATIONALE FOR CALCULATING THE SCORES
+Score Cost
+Cost  Indicators
+(Steel Cost)
+MAX(Results of the analyzed plants) - Plant result
+Performance
+Indicators
+=(
+)
+Score Performance
+Better 
+indicators up
+=
+* 4
+MAX(Results of the analyzed plants) - MIN(Results of the analyzed plants) 
++ 1
+(
+)
+Indicator A score
+Weight of the indicator A
+*
+( Indicator B score
+Weight of the indicator B)
+*
++
+Weight of the indicator A +
+Weight of the indicator B
+Plant result - MIN(Results of the analyzed plants)
+(
+* 4
+MAX(Results of the analyzed plants) - MIN(Results of the analyzed plants) 
++
+1
+)
+Better 
+indicators down
+Plant result - MIN(Results of the analyzed plants)
+(
+* 4
+MAX(Results of the analyzed plants) - MIN(Results of the analyzed plants) 
+-
+5
+)
+Indicator score:
+Weight of the indicator:
+Definition based on assumption
+INDICATOR WEIGHTS FOR CALCULATING THE SCORE
+Metallic Yield
+3
+Energy Consumption
+3
+PowerOFF
+3
+Electrode Consumption
+1
+Lime Consumption
+1
+
+*** Page 98 ***
+RATIONALE FOR CALCULATING THE SCORES
+Score Performance Compared to Itself
+Better 
+indicators up
+Plant result of last 3 months - MIN(Results of the indicator and plant analyzed in the period)
+(
+*
+4
+MAX (Results of the indicator and plant analyzed in the period) - MIN (Results of the indicator and plant analyzed in the period)
++
+1
+)
+Better 
+indicators 
+down
+Indicator score:
+(
+*
+4
+-
+5
+)
+Performance
+Indicators
+= (
+)
+Indicator A score
+Weight of the indicator A
+*
+( Indicator B score
+Weight of the indicator B)
+*
++
+Weight of the indicator A +
+Weight of the indicator B
+Score Performance Compared to group
+Better 
+indicators up
++
+1
+Better 
+indicators 
+down
+Indicator score:
+-
+5
+Performance
+Indicators
+= (
+)
+Indicator A score
+Weight of the indicator A
+*
+( Indicator B score
+Weight of the indicator B)
+*
++
+Weight of the indicator A +
+Weight of the indicator B
+Plant result of last 3 months - MIN(Results of the indicator and plant analyzed in the period)
+MAX (Results of the indicator and plant analyzed in the period) - MIN (Results of the indicator and plant analyzed in the period)
+Plant result of last 3 months - MIN(Indicator results and all plants in the group analyzed in the period)
+(
+*
+4
+MAX (Indicator results and all plants in the group analyzed in the period) - MIN (Indicator results and all plants in the group analyzed in the period) )
+(
+*
+4
+)
+Plant result of last 3 months - MIN(Indicator results and all plants in the group analyzed in the period)
+MAX (Indicator results and all plants in the group analyzed in the period) - MIN (Indicator results and all plants in the group analyzed in the period)
+
+*** Page 99 ***
+This content is Internal.
+Appendix: (PoV) Steel 
+Value and KPI Tree with 
+Benchmarks
+
+*** Page 100 ***
+Introduction
+•
+This document covers steel industry specific
+•
+Value tree 
+•
+Strategic and child KPIs 
+•
+KPIs benchmarks available as of Mar 2024
+•
+The present scope of this document is restricted to only Iron and Steel industry, for both BOF and EAF route of steel making and Long and Flat products
+•
+Given steel companies are diverse with varied raw materials ranging from iron ore, DRI to semifinished and the final products also varies in type, grade, quality 
+and dimension, this document captures all types of raw materials and products. Request to use ones that are applicable for your archetype of steel company and 
+ignore others
+•
+Keeping in mind geography variations, regulations etc., KPIs data mentions best in class benchmark, geography wise details and median peer values, as 
+necessary. The same is indicated in notes in respective slides
+
+*** Page 101 ***
+Summary slide: Steel value and KPI tree
+Non-Exhaustive
+Level 1
+Level 2
+Level 3
+Level 4
+EBITDA/ton
+$ 131-178 / tcs
+EBIDTA Margin
+8.3% – 12.6%
+Cost 
+Reduction
+Margin
+Revenue 
+Growth
+Volume 
+Price 
+BOF / EAF production
+Solutions (e.g., Consulting)/ 
+Service (e.g., Service centers)
+Blast Furnace production
+HSM/Other mills production
+Product mix enrichment 
+(By producing High grade steel, 
+coated steel, specialized steel etc.)
+Conversion 
+Cost
+Other costs
+Energy Cost
+Manpower Cost
+Raw Material Cost
+Supply Chain & Logistics Cost
+Maintenance Cost
+General Expenses
+Others
+Impacted KPI (Formula)
+Benchmark
+•
+Capacity Utilization1 (Actual/Potential Output * 100) 
+•
+Daily production v/s best demonstrated production
+•
+Plant Availability %1
+•
+Overall Equipment effectiveness (OEE)
+•
+Average price of HRC2
+•
+Europe (in $/Ton)
+•
+China (in $/Ton)
+•
+USA (in $/Ton)
+•
+% High value-added products (In volume) 1
+•
+47%
+•
+NA
+•
+95%
+•
+772
+•
+573
+•
+899
+•
+% Revenue from high grade/coated/ specialized steel
+•
+Cash cycle (It measures the number of days it takes a company to convert 
+resource inputs into cash flows. Formula = Days sales outstanding + 
+Inventory days in hand – Days payable)
+•
+NA
+•
+Cost per ton of steel produced
+•
+RM cost1
+•
+Fuel, Energy, Manpower, Maintenance, supply chain and 
+logistics cost1
+•
+Misc. cost1 (Finance cost, depreciation, mining premium & 
+royalties, purchase of stock & trade)
+•
+Manpower productivity (Full Time Employee per MT of steel produced 
+per year) 1
+•
+Freight and handling charges as part of total expenditure1
+•
+Spares and Consumable cost as percentage of total expenditure1
+•
+Inventory days (average no of days finished goods inventory is in the 
+warehouse, formula- Cost of average inventory/Cost of goods 
+sold)*period length)
+•
+Global avg. of CO2 emissions per ton of crude steel (tcs)
+•
+BF-BOF route 
+•
+Scrap – EAF route
+•
+DRI – EAF route
+•
+~ $667/tcs
+•
+Europe: 542
+•
+China  : 436
+•
+N.America: 302
+•
+~25-30% 
+•
+~40-55%
+•
+~10-20% 
+•
+Europe: 6-6.4%
+•
+India – 4.7-5%
+•
+Japan – 1.7-2.2%
+•
+4.06%
+•
+95%
+•
+89 days 3 (Source)
+•
+70% (Source)
+• 1.92 tCO2 /tcs 
+• 2.33 tCO2 /tcs 
+• 0.68 tCO2 /tcs 
+• 1.37 tCO2 /tcs 
+•
+81 days3 (Source)
+Notes–
+1.
+Benchmark values are sourced from annual reports of leading Steel companies for 2022 and 2023.
+2.
+Prices are sourced from S&P Platts, average for 2023
+3.
+Values are per median
+Acronyms: BF – Blast Furnace; BOF – Basic Oxygen Furnace; EAF – Electric Arc Furnace; tcs – tonne of 
+crude steel; CRC – Cold rolled coils; HRC – Hot rolled coils
+(Source)
+(Source)
+(Source)
+(Source)
+
+*** Page 102 ***
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Cost 
+Reduction
+Margin
+Revenue 
+Growth
+Conversion 
+Costs
+Other expenses
+Other  
+Conversion 
+Costs
+Raw Material Cost
+Maintenance Cost
+Supply Chain & Logistics Cost
+R&D, Employee Capability Building etc.
+IT
+Marketing & Advertising Cost
+General Expenses
+Energy Cost
+Iron Ore Cost
+Ferrous & Non-ferrous alloys cost
+Services: Repairs (Buildings & Machinery)
+Services: Relining Expenses (Refractory)
+(BF/LD/Reheating furnaces/Lime Kilns)
+Consumables Cost 
+Packaging cost
+Freight & handling cost
+Warehousing cost
+Inventory cost
+Others
+Export duty
+Agglomerates (Sinter, Pellet) Cost
+Fluxes (Lime, Dolomite etc.) Cost 
+Spares Cost
+Commissions & Discounts
+Coal/Coke Cost
+Direct Reduced Iron Cost*
+Manpower Cost
+Electricity consumption Cost
+Fuel consumption Cost
+Steel Scrap Cost
+Electrodes
+* Optional: Many Steel companies procure DRI/ Semi finished for further production
+Key Value Drivers L1:  Margin
+Semi finished*
+Natural Resource | Metals | Value Tree | Cost Reduction
+
+*** Page 103 ***
+Non-Exhaustive
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Impacted KPI (Formula)
+Benchmark
+Steel Production
+•
+Capacity Utilization (Actual Output / 
+Potential Output * 100)
+•
+Plant Availability %
+•
+Overall Equipment effectiveness (OEE)
+•
+% Yield
+•
+% of steel produced through EAF route 
+(Total EAF output as a % of global steel 
+production)
+•
+Daily production v/s best 
+demonstrated production
+Footprint Expansion
+•
+% Revenue Share per location
+•
+Market Share (Company Revenue  
+Total Market Revenue *100)
+Solution Business
+•
+Percentage of Total Revenue from 
+Solution-based Sales
+•
+95%
+•
+95%
+•
+70% (Source)
+•
+89%
+•
+29% (Source)
+•
+100%
+EBITDA/ton
+$ 131-178 / tcs
+EBIDTA Margin
+8.3% – 12.6%
+Cost 
+Reduction
+Margin
+Revenue 
+Growth
+Volume 
+Growth
+Price Increase
+Steel Production from 
+existing operations
+Solution and Services 
+Business
+Capacity Utilization
+Plant Availability
+Plant Performance
+New Solutions
+New Services
+Note: High level key strategic KPIs are highlighted in green. 
+•
+4-5%
+Key Value Drivers L1:  Margin
+Steel Production from 
+existing operations
+Footprint expansion
+Capacity expansion 
+(Brownfield/Greenfield)
+New acquisitions
+Geographic expansion
+•
+NA
+•
+NA
+Sources : All values are sourced from 2022 & 2023 Annual 
+reports of leading Steel companies, websites and secondary 
+research
+Margin | Revenue Growth Drill-Down (Volume Growth)
+
+*** Page 104 ***
+Non-Exhaustive
+Impacted KPI (Formula)
+Benchmark
+Cost 
+Reduction
+Conversion Cost
+Other Conversion 
+Costs
+Other expenses
+Energy Cost
+Manpower Cost
+Raw Material Cost
+Coal/Coke Cost
+Direct Reduced Iron Cost*
+Iron Ore Cost
+Margin
+Revenue 
+Growth
+Note: High level key strategic KPIs are highlighted in green. 
+Sources :
+I.
+Benchmark values are sourced from 2022 & 2023 
+annual reports of leading Steel companies, websites 
+and secondary research. 
+II.
+Raw material price indices
+1.
+BF – Blast Furnace
+2.
+BOF – Basic Oxygen Furnace
+3.
+tcs – tonne of crude steel
+4.
+t – tonne
+5.
+EAF – Electric Arc Furnace
+6.
+thm – tonne of hot metal
+Notes:
+Ferrous & Non-ferrous alloys cost
+Agglomerates (Sinter, Pellet) Cost
+Fluxes (Lime, Dolomite etc.) Cost 
+Steel Scrap Cost
+Electrodes Cost
+* Optional: For steel companies that procure DRI or Semi-finished
+•
+Conversion cost: Raw Material (RM) 
+cost per tcs
+•
+~25-30%
+•
+40-55% 
+•
+Conversion cost per tcs (Includes: Fuel 
+cost, Electricity cost,Manpower cost, 
+Maintenance, Supply chain & logistics 
+cost)
+•
+Misc. cost (Finance cost, depreciation, 
+mining premium & royalties, purchase of 
+stock & trade)
+•
+Coke rate (per THM)
+•
+% Scrap consumption in production
+•
+BOF
+•
+EAF
+•
+315 kg/thm 
+•
+8.5%
+•
+100 %
+•
+Iron Ore cost as  %total cost; as % of  RM 
+cost
+•
+Raw material price indicesII
+•
+27-30%; ~45%
+Production
+•
+~ $667/tcs
+•
+Total cost/tonne of steel produced
+Cost Spread
+Material
+Average price $/ton in 2023
+Iron ore (~65% Iron content)
+125
+Coking Coal
+270
+Pulverized coal
+120
+Scrap
+394
+Electrodes (Ultra High Power)
+2300-2400
+Electrodes (High Power)
+2750-3100
+High Carbon Ferro Manganese
+1244
+Silico-Manganese
+1266
+Medium Carbon Ferro Manganese
+1832
+Zinc
+2649
+Tin
+25895
+Aluminium
+2252
+Nickel
+21474
+Ferro-Vanadium
+12814
+Ferro –Titanium
+5500
+Ferro-Niobium
+45000
+(Source 1)
+(Source 2)
+(Source 3)
+(Source 4)
+•
+Coal rate (per THM )
+•
+190 kg/thm 
+•
+~10-17%
+•
+Coal cost as  %total cost; as % of  RM cost
+•
+Scrap cost as %RM cost (8.5% charge in 
+BOF)
+•
+24-28%; 40%
+•
+9% 
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Semi-finished*
+Key Value Drivers L1:  Margin
+Margin | Cost Reduction Drill-Down (Conversion Cost)
+
+*** Page 105 ***
+Non-Exhaustive
+Impacted KPI (Formula)
+Benchmark
+Cost 
+Reduction
+Conversion Cost
+Other Conversion 
+Costs
+Other expenses
+Energy Cost
+Manpower Cost
+Raw Material Cost
+Total electricity consumption cost
+Total fuel consumption cost
+Margin
+Revenue 
+Growth
+Note: High level key strategic KPIs are highlighted in green. 
+Sources : All values are sourced from 2022 & 2023 Annual 
+reports of leading Steel companies, websites and secondary 
+research
+1.
+BF – Blast Furnace
+2.
+DRI – Direct Reduced Iron
+3.
+BOF – Basic Oxygen Furnace
+4.
+tcs – tonne of crude steel
+5.
+t – tonne
+6.
+EAF – Electric Arc 
+Furnace
+7.
+GJ – Giga Joules
+Notes:
+Manpower
+•
+Manpower productivity (Full Time 
+Employee per MT of steel produced 
+per year)
+•
+11.19GJ/tcs 
+•
+3%
+•
+3%
+•
+0.48%
+Energy
+•
+Energy consumption per Ton of 
+crude steel
+•
+Total electricity consumption as % 
+of total expenditure
+•
+Total Fuel consumption as % of 
+total expenditure
+•
+Energy consumption through 
+other sources as % of total 
+expenditure
+(Other sources include Oxygen, Nitrogen 
+etc.)
+•
+Employee cost as % of Total expense
+•
+India: 2.4-5.8%
+•
+Europe: 10.67%
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Key Value Drivers L1:  Margin
+•
+Europe: 542
+•
+China  : 436
+•
+N.America: 302
+Margin | Cost Reduction Drill-Down (Conversion Cost) - continued
+
+*** Page 106 ***
+Non-Exhaustive
+Impacted KPI (Formula)
+Benchmark (Source)
+Cost 
+Reduction
+Conversion Cost
+Supply Chain & Logistics 
+Cost
+Maintenance Cost
+Freight & handling cost
+Consumables Cost 
+Services: Relining Expenses 
+(Refractory)
+(BF1/BOF2/Reheating furnaces/Lime 
+Kilns)
+Margin
+Revenue 
+Growth
+Services: Repairs (Buildings & 
+Machinery)
+Export duty
+Note: High level key strategic KPIs are highlighted in green. 
+Sources : All values are sourced from 2022 & 2023 Annual 
+reports of leading Steel companies, websites and secondary 
+research.
+•
+MTBF (mean time between 
+failures)
+•
+MTTR (Mean Time To Repair)
+•
+Maintenance/ Repair cost as % of 
+Total Expenditure
+•
+Planned Maintenance Schedule 
+compliance
+•
+Relining expenses (USD/tcs) 
+(Cost of Refractory)
+Supply Chain & Logistics
+•
+Freight and handling charges as 
+part of total expenditure
+•
+Spares and Consumable cost as 
+percentage of total expenditure
+•
+Spares Savings rate
+•
+>96%
+•
+1.14%
+•
+4.06%
+•
+8 – 12 %
+•
+BOF 2: 4 ~ 8 hours
+•
+HSM 3 : 5~10 hours
+•
+CAL4 : 48 ~ 72 hours
+•
+BOF 2 : 2~6 hours
+•
+HSM 3: 1~ 2 hours
+•
+CAL4 : 1~ 2 hours
+•
+~ 8 USD/tcs 5
+Measures savings achieved as  a percentage of 
+spend under management –
+(Hard Savings + Cost Avoidance)/Procurement-
+Managed Spend
+1.
+BF – Blast Furnace
+2.
+BOF – Basic Oxygen Furnace
+3.
+HSM – Hot strip mill
+4.
+CAL: Continuous Annealing line
+5.
+tcs- tonne of crude steel
+Notes:
+Other Conversion 
+Costs
+Other expenses
+Spares Cost
+Warehousing cost
+Inventory cost
+Packaging cost
+Maintenance & Repairs Services
+•
+Japan – 1.7-2.2%
+•
+India – 4.7-5%
+•
+Europe: 6-6.4%
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Key Value Drivers L1:  Margin
+Margin | Cost Reduction Drill-Down (Other Conversion Costs)
+
+*** Page 107 ***
+This content is Internal.
+Appendix: (PoV) Unlocking 
+value in the Melt Shop with 
+analytics
+
+*** Page 108 ***
+PoV: Unlocking value in the Melt Shop with advanced analytics
+Analytics Interventions
+Critical Performance KPIS
+Ferro Alloy Consumption optimization: Recommend optimal 
+process settings that have resulted in optimal consumption of 
+Ferro alloys in the past for a specific steel grade and hot metal 
+properties
+Casting Speed Maximization: Recommend maximum casting 
+speed basis Chemistry and Heat parameters for throughput 
+improvement without impacting reliability and operator 
+confidence
+End Point Prediction: Predict End Point Properties 
+(Temperature, Carbon & Phosphorus content) from BOF 
+Process Parameters & Hot Metal Properties and Prescribe 
+Operating Regimes to ensure achievement of End Point 
+Properties & avoid need for Re-blows
+Reduction in Caster nozzle Clogging: Recommend optimal 
+setting to reduce clogging in SEN (Submerged Entry Nozzle) in 
+caster to avoid downgrading of slabs caused due to resultant 
+mold level fluctuations
+Improved LD Gas Recovery: Track LD gas recovery of 
+individual heats to highlight any instances of violation of SoP 
+so that root causes of excessive LD gas flaring can be 
+addressed
+Illustrative & Non-Exhaustive
+Caster
+DOWNGRADED SLABS
+CLOGGING IN CASTER
+-5%
+Quality
+HSE
+PM, CO, SOx, NOx
+BOF
+LF
+Degasser
+Cost 
+RM COST
+FERRO ALLOY COST
+LD GAS RECOVERY
+-1.5%
+Prod. 
+BOF TAP TO TAP TIME
+EQUIPMENT DOWNTIME
+SUPERHEAT AT CASTER
+CASTING SPEED
+-1%
+1%
+EAF
+
