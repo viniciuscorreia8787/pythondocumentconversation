@@ -3,7 +3,7 @@ import fitz
 def read_pdf(filepath):
 
     doc = fitz.open(filepath) # open a document
-    out = open("/workspaces/python/.devcontainer/documentconversation/supportfiles/pdftext.txt", "wb")
+    out = open("/workspaces/python/.devcontainer/pythondocumentconversation/supportfiles/pdftext.log", "w")
     array_text = []
     icont=0
 
@@ -12,11 +12,11 @@ def read_pdf(filepath):
         icont+=1
         text = page.get_text().encode("utf8") # get plain text (is in UTF-8)
 
-        out.write(bytes("*** Page " + str(icont) + " ***", "utf8"))
-        out.write(bytes("\n", "utf8"))
+        out.write("*** Page " + str(icont) + " ***")
+        out.write("\n")
 
-        out.write(text) # write text of page
-        out.write(bytes("\n", "utf8"))
+        out.write(str(text)) # write text of page
+        out.write("\n")
 
         array_text.append(str(text))
     out.close()

@@ -1,5 +1,18 @@
 import boto3
 import json
+import psycopg2
+import pandas as pd
+import numpy as np
+
+from pgvector.psycopg2 import register_vector
+
+# Connect to PostgreSQL database in Tessell using connection string
+conn=psycopg2.connect(
+database="postgres",
+user="postgres",
+host="172.18.0.3",
+password="password"
+)
 
 def create_embedding(input_text):
     # Create a Bedrock Runtime client in the AWS Region of your choice.
@@ -36,6 +49,49 @@ def create_embedding(input_text):
 
     return input_token_count, len(embedding), embedding
 
-def save_embedding(input_text, input_token_count, embedding, embedding_length, page_number, file_name):
-    print("page " + str(page_number))
-    print("saved")
+# Save embeddings and metadata into Postgres Vector DB 
+def save_embedding(text, token_count, embedding, embedding_length, page_number, file_name):
+
+    # Insert row with embeddings and metadata
+    insert_row_command = """ INSERT INTO file_embeddings (file_name, page_number, text, token_count, embedding_length, embedding) VALUES (%s, %s, %s, %s, %s, %s) """
+    
+    # Prepare row to insert into database
+    cur = conn.cursor()     
+
+    cur.execute(insert_row_command, (file_name,
+                                    page_number,
+                                    text,
+                                    token_count,
+                                    embedding_length,
+                                    embedding))
+    conn.commit()
+    cur.close() 
+
+    print("page " + str(page_number) + " saved")
+
+# Get top 3 most similar documents from the database
+def get_top_similar_rows(query_embedding):
+
+    array_result = []
+    embedding_array = np.array(query_embedding)
+    register_vector(conn)
+    cur = conn.cursor()
+
+    # Get the top 5 most similar documents using the KNN <=> operator
+    cur.execute("SELECT file_name, page_number, text FROM file_embeddings ORDER BY embedding <=> %s LIMIT 5", (embedding_array,))
+    similar_pages = cur.fetchall()
+
+    # Extend seach on similar pages
+    for page in similar_pages:
+
+        # print("Searching page  = " + str(page[1]))
+        # print("Including pages between" + str(page[1]) + " and " + str(page[1] + 2))
+
+        # Include next 2 rows (pages) on result set
+        cur.execute("SELECT file_name, page_number, text FROM file_embeddings WHERE page_number >= %s and page_number <= %s ORDER BY id LIMIT 5", (page[1], page[1] + 2))
+        extended_similar_pages = cur.fetchall()
+
+        for extended_page in extended_similar_pages:
+            array_result.append(extended_page)
+
+    return array_result
