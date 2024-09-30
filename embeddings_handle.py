@@ -88,7 +88,7 @@ def get_top_similar_rows(query_embedding):
         # print("Including pages between" + str(page[1]) + " and " + str(page[1] + 2))
 
         # Include next 2 rows (pages) on result set
-        cur.execute("SELECT file_name, page_number, text FROM file_embeddings WHERE page_number >= %s and page_number <= %s ORDER BY id LIMIT 5", (page[1], page[1] + 2))
+        cur.execute("SELECT %s as original_page, file_name, page_number, text FROM file_embeddings WHERE page_number >= %s and page_number <= %s ORDER BY id LIMIT 5", (page[1], page[1], page[1] + 2))
         extended_similar_pages = cur.fetchall()
 
         for extended_page in extended_similar_pages:

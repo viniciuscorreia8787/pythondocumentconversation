@@ -25,8 +25,10 @@ def import_document():
     print("Data load completed")
 
 def talk_to_document():
+
+    original_pages = []
     while 1>0:
-        input_text = input("Ask me anything about the document: ")
+        input_text = input("\nAsk me anything about the document: ")
 
         icont = 0
         # Create embbedings from prompt
@@ -40,14 +42,19 @@ def talk_to_document():
 
         for page in top_pages:
             icont+=1
-            genai_text_prompt += " document chunk " + str(icont) + " [[" + page[2] + "]]"
+            genai_text_prompt += " document chunk " + str(icont) + " [[" + page[3] + "]]"
 
-        genai_answer = call_genai_text(genai_text_prompt)
-        print(genai_answer)
-        print("\n")
+            if page[0] not in original_pages:
+                original_pages.append(page[0])
 
+        genai_answer = call_genai_text(genai_text_prompt) + "\nInformation found on pages "
+        
+        for item in original_pages:
+            genai_answer += str(item) +  " - "       
 
-menu_selection = input("What do you want to do? [1] Import document, [2] talk to document ")
+        print("Response: " + genai_answer)
+
+menu_selection = input("What do you want to do? [1] Import document, [2] talk to document: ")
 
 while 1>0:
 
