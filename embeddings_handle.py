@@ -21,9 +21,9 @@ def create_embedding(input_text):
     # Set the model ID, e.g., Titan Text Embeddings V2.
     model_id = "amazon.titan-embed-text-v2:0"
 
-    # The text to convert to an embedding.
-    #input_text = "Please recommend books with a theme similar to the movie 'Inception'."
-
+    # Limit input_text in 4500 chars
+    input_text=input_text[:4500]
+    
     # Create the request for the model.
     native_request = {"inputText": input_text}
 
@@ -72,26 +72,27 @@ def save_embedding(text, token_count, embedding, embedding_length, page_number, 
 # Get top 3 most similar documents from the database
 def get_top_similar_rows(query_embedding):
 
-    array_result = []
+    # array_result = []
     embedding_array = np.array(query_embedding)
     register_vector(conn)
     cur = conn.cursor()
 
     # Get the top 5 most similar documents using the KNN <=> operator
-    cur.execute("SELECT file_name, page_number, text FROM file_embeddings ORDER BY embedding <=> %s LIMIT 5", (embedding_array,))
+    cur.execute("SELECT file_name, page_number, text FROM file_embeddings WHERE file_name = 'DA_Imperial_MeltShopv10.1.pdf' ORDER BY embedding <=> %s LIMIT 3", (embedding_array,))
     similar_pages = cur.fetchall()
 
     # Extend seach on similar pages
-    for page in similar_pages:
+    #for page in similar_pages:
 
         # print("Searching page  = " + str(page[1]))
         # print("Including pages between" + str(page[1]) + " and " + str(page[1] + 2))
 
         # Include next 2 rows (pages) on result set
-        cur.execute("SELECT %s as original_page, file_name, page_number, text FROM file_embeddings WHERE page_number >= %s and page_number <= %s ORDER BY id LIMIT 5", (page[1], page[1], page[1] + 2))
-        extended_similar_pages = cur.fetchall()
+        #cur.execute("SELECT %s as original_page, file_name, page_number, text FROM file_embeddings WHERE page_number >= %s and page_number <= %s ORDER BY id LIMIT 5", (page[1], page[1], page[1] + 2))
+        #extended_similar_pages = cur.fetchall()
 
-        for extended_page in extended_similar_pages:
-            array_result.append(extended_page)
+        #for extended_page in extended_similar_pages:
+        #    array_result.append(extended_page)
 
-    return array_result
+    #return array_result
+    return similar_pages

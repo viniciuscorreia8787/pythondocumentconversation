@@ -7,18 +7,24 @@ file_path = "/workspaces/python/.devcontainer/pythondocumentconversation/support
 file_name = "DA_Imperial_MeltShopv10.1.pdf"
 
 def import_document():
+    file_name = input("Document name: ")
+
     print("Data load start...")
+    icont=0
 
     # Read PDF and create array of text . 1 item per page
     array_text = read_pdf(file_path + file_name)
-
+    
     # For each page
     for text in array_text:
         icont+=1
 
         # Create embeddigs for page
         input_token_count, embedding_length, embedding = create_embedding(text)
-        
+        #input_token_count= 10
+        #embedding = None
+        #embedding_length=10
+
         # Store page info on vector db
         save_embedding(text, input_token_count, embedding, embedding_length, icont, file_name )
     
@@ -40,12 +46,13 @@ def talk_to_document():
         # Create prompt for GenAI, incluing user request and the list of similar pages
         genai_text_prompt= "You are an experienced analyst about financial data and mining of one of the greatest mining companies in the world. You are interacting with the high executive level of the company. Based on the following chunks of a document, explain briefly " + input_text + "."
 
+        original_pages = []
         for page in top_pages:
             icont+=1
-            genai_text_prompt += " document chunk " + str(icont) + " [[" + page[3] + "]]"
+            genai_text_prompt += " document chunk " + str(icont) + " [[" + page[2] + "]]"
 
             if page[0] not in original_pages:
-                original_pages.append(page[0])
+                original_pages.append(page[1])
 
         genai_answer = call_genai_text(genai_text_prompt) + "\nInformation found on pages "
         
@@ -53,6 +60,11 @@ def talk_to_document():
             genai_answer += str(item) +  " - "       
 
         print("Response: " + genai_answer)
+
+
+###TEST###
+#file_name = "tabela.pdf"
+#1array_text = read_pdf(file_path + file_name)
 
 menu_selection = input("What do you want to do? [1] Import document, [2] talk to document: ")
 
